@@ -1,0 +1,31 @@
+<h1>Listing Videos</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Url</th>
+      <th>Title</th>
+      <th>Description</th>
+
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+<%= for videos <- @videos do %>
+    <tr>
+      <td><%= videos.url %></td>
+      <td><%= videos.title %></td>
+      <td><%= videos.description %></td>
+
+      <td>
+        <span><%= link "Show", to: Routes.videos_path(@conn, :show, videos) %></span>
+        <span><%= link "Edit", to: Routes.videos_path(@conn, :edit, videos) %></span>
+        <span><%= link "Delete", to: Routes.videos_path(@conn, :delete, videos), method: :delete, data: [confirm: "Are you sure?"] %></span>
+        <span><%= link "Watch", to: Routes.watch_path(@conn, :show, videos) %></span>
+      </td>
+    </tr>
+<% end %>
+  </tbody>
+</table>
+
+<span><%= link "New Videos", to: Routes.videos_path(@conn, :new) %></span>
