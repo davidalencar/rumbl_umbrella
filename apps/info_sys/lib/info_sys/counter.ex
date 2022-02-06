@@ -1,8 +1,9 @@
 defmodule InfoSys.Counter do
-  use GenServer
+    use GenServer, restart: :temporary
 
 
   def init(initial_val) do
+    Process.send_after(self(), :tick, 1000)
     {:ok, initial_val}
   end
 
@@ -11,7 +12,12 @@ defmodule InfoSys.Counter do
   end
 
   def inc(pid), do: GenServer.cast(pid, :inc)
+
   def dec(pid), do: GenServer.cast(pid, :dec)
+
+  def val(pid) do
+    GenServer.call(pid, :val)
+  end
 
   def handle_cast(:inc, val) do
     {:noreply, val + 1}
@@ -25,7 +31,14 @@ defmodule InfoSys.Counter do
     {:reply, val, val}
   end
 
-  def val(pid) do
-    GenServer.call(pid, :val)
+  def handle_info(:tick, val) when val <= 0 do
+    raise "Boom!!!"
   end
+
+  def handle_info(:tick, val) do
+    IO.puts("tick#{val}")
+    Process.send_after(self(), :tick, 1000)
+    {:noreply, val - 1}
+  end
+
 end
