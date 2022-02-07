@@ -52,4 +52,6 @@ defmodule InfoSys.Cache do
   end
 
   defp tab_name(name), do: :"#{name}_cache"
+
+
 end

@@ -36,17 +36,42 @@ defmodule RumblWeb.VideosChannel do
   def handle_in("new_annotation", payload, user, socket) do
     case Multimedia.annotate_video(user, socket.assigns.video_id, payload) do
       {:ok, annotation} ->
-        broadcast!(socket, "new_annotation", %{
-          id: annotation.id,
-          user: RumblWeb.UserView.render("user.json", %{user: user}),
-          body: annotation.body,
-          at: annotation.at
-        })
+        broadcast_annotationn(socket, user, annotation)
+
+        Task.start(fn ->
+          compute_additionalinfo(annotation, socket)
+        end)
 
         {:reply, :ok, socket}
 
       {:error, changeset} ->
         {:reply, {:error, %{errors: changeset}}, socket}
+    end
+  end
+
+  defp broadcast_annotationn(socket, user, annotation) do
+    broadcast!(socket, "new_annotation", %{
+      id: annotation.id,
+        user: RumblWeb.UserView.render("user.json", %{user: user}),
+        body: annotation.body,
+        at: annotation.at
+      })
+  end
+
+  defp compute_additionalinfo(annotation, socket) do
+    for result <- InfoSys.compute(annotation.body, limit: 1, timeout: 10_000) do
+      IO.puts "-----------------"
+      IO.inspect(result)
+      backend_user = Accounts.get_user_by(username: result.backend.name())
+
+      attrs = %{body: result.text, at: annotation.at}
+
+      case Multimedia.annotate_video(backend_user, annotation.videos_id, attrs) do
+        {:ok, info_ann} ->
+          broadcast_annotationn(socket, backend_user, info_ann)
+        {:error, _changeset} ->
+          :ignore
+      end
     end
   end
 end
