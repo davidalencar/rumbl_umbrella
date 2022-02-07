@@ -5,12 +5,43 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
 Application	lib/info_sys/application.ex	/^defmodule InfoSys.Application do$/;"	m
+Backend	lib/info_sys/backend.ex	/^defmodule InfoSys.Backend do$/;"	m
+Cache	lib/info_sys/cache.ex	/^defmodule InfoSys.Cache do$/;"	m
+Counter	lib/info_sys/counter.ex	/^defmodule InfoSys.Counter do$/;"	m
 InfoSys	lib/info_sys.ex	/^defmodule InfoSys do$/;"	m
 InfoSysTest	test/info_sys_test.exs	/^defmodule InfoSysTest do$/;"	m
 MixProject	mix.exs	/^defmodule InfoSys.MixProject do$/;"	m
+Result	lib/info_sys.ex	/^  defmodule Result do$/;"	m
+Wolfram	lib/info_sys/wolfram.ex	/^defmodule InfoSys.Wolfram do$/;"	m
 application	mix.exs	/^  def application do$/;"	f
+async_query	lib/info_sys.ex	/^  defp async_query(backend, query, opts) do$/;"	f
+build_results	lib/info_sys/wolfram.ex	/^  defp build_results(answer) do$/;"	f
+build_results	lib/info_sys/wolfram.ex	/^  defp build_results(nil), do: []$/;"	f
+compute	lib/info_sys.ex	/^  def compute(query, opts \\\\ []) do$/;"	f
+compute	lib/info_sys/wolfram.ex	/^  def compute(query_str, _opts) do$/;"	f
+dec	lib/info_sys/counter.ex	/^  def dec(pid), do: GenServer.cast(pid, :dec)$/;"	f
 deps	mix.exs	/^  defp deps do$/;"	f
+fetch	lib/info_sys/cache.ex	/^  def fetch(name \\\\ __MODULE__, key) do$/;"	f
+fetch_xml	lib/info_sys/wolfram.ex	/^  defp fetch_xml(query) do$/;"	f
 greets the world	test/info_sys_test.exs	/^  test "greets the world" do$/;"	t
-hello	lib/info_sys.ex	/^  def hello do$/;"	f
+handle_call	lib/info_sys/counter.ex	/^  def handle_call(:val, _from, val) do$/;"	f
+handle_cast	lib/info_sys/counter.ex	/^  def handle_cast(:dec, val) do$/;"	f
+handle_cast	lib/info_sys/counter.ex	/^  def handle_cast(:inc, val) do$/;"	f
+handle_info	lib/info_sys/cache.ex	/^  def handle_info(:clear, state) do$/;"	f
+handle_info	lib/info_sys/counter.ex	/^  def handle_info(:tick, val) do$/;"	f
+handle_info	lib/info_sys/counter.ex	/^  def handle_info(:tick, val) when val <= 0 do$/;"	f
+id	lib/info_sys/wolfram.ex	/^  def id(), do: Application.fetch_env!(:info_sys, :wolfram)[:app_id]$/;"	f
+inc	lib/info_sys/counter.ex	/^  def inc(pid), do: GenServer.cast(pid, :inc)$/;"	f
+init	lib/info_sys/cache.ex	/^  def init(opts) do$/;"	f
+init	lib/info_sys/counter.ex	/^  def init(initial_val) do$/;"	f
+name	lib/info_sys/wolfram.ex	/^  def name(), do: "wolfram"$/;"	f
+new_table	lib/info_sys/cache.ex	/^  defp new_table(name) do$/;"	f
 project	mix.exs	/^  def project do$/;"	f
+put	lib/info_sys/cache.ex	/^  def put(name \\\\ __MODULE__, key, value) do$/;"	f
+schedule_clear	lib/info_sys/cache.ex	/^  defp schedule_clear(state) do$/;"	f
 start	lib/info_sys/application.ex	/^  def start(_type, _args) do$/;"	f
+start_link	lib/info_sys/cache.ex	/^  def start_link(opts) do$/;"	f
+start_link	lib/info_sys/counter.ex	/^  def start_link (initial_val) do$/;"	f
+tab_name	lib/info_sys/cache.ex	/^  defp tab_name(name), do: :"#{name}_cache"$/;"	f
+url	lib/info_sys/wolfram.ex	/^  defp url(input) do$/;"	f
+val	lib/info_sys/counter.ex	/^  def val(pid) do$/;"	f
