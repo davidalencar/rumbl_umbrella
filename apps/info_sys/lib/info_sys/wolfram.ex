@@ -28,7 +28,6 @@ defmodule InfoSys.Wolfram do
   end
 
   defp url(input) do
-    IO.puts("-------------" <> id())
     "#{@base}?" <> 
       URI.encode_query(appid: id(), input: input, format: "plaintext")
   end
