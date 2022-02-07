@@ -1,18 +1,22 @@
 defmodule InfoSys do
-  @moduledoc """
-  Documentation for `InfoSys`.
-  """
+  @backends [InfoSys.Wolfram]
 
-  @doc """
-  Hello world.
+  defmodule Result do
+    defstruct score: 0, text: nil, backend: nil 
+  end
 
-  ## Examples
+  def compute(query, opts \\ []) do
+    opts = Keyword.put_new(opts, :limit, 10)
 
-      iex> InfoSys.hello()
-      :world
+   @backends
+    |> Enum.map(&async_query(&1, query, opts))
+  end
 
-  """
-  def hello do
-    :world
+  defp async_query(backend, query, opts) do
+    Task.Supervisor.async_nolink(InfoSys.TaskSupervisor,
+      backend,
+      :compute,
+      [query, opts],
+    shutdown: :brutal_kill)
   end
 end
