@@ -1,0 +1,1189 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AddCategoryIdToVideo	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220130165334_add_category_id_to_video.exs	/^defmodule Rumbl.Repo.Migrations.AddCategoryIdToVideo do$/;"	m
+AddSlugToVideos	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220203195313_add_slug_to_videos.exs	/^defmodule Rumbl.Repo.Migrations.AddSlugToVideos do$/;"	m
+AnnotationView	lib/rumbl_web/views/annotation_view.ex	/^defmodule RumblWeb.AnnotationView do$/;"	m
+Application	lib/rumbl_web/application.ex	/^defmodule RumblWeb.Application do$/;"	m
+Auth	lib/rumbl_web/controllers/auth.ex	/^defmodule RumblWeb.Auth do$/;"	m
+BEFORE_UNLOAD_LOADER_TIMEOUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var BEFORE_UNLOAD_LOADER_TIMEOUT = 200;$/;"	v
+BEFORE_UNLOAD_LOADER_TIMEOUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var BEFORE_UNLOAD_LOADER_TIMEOUT = 200;$/;"	v
+BEFORE_UNLOAD_LOADER_TIMEOUT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var BEFORE_UNLOAD_LOADER_TIMEOUT = 200;$/;"	v
+BEFORE_UNLOAD_LOADER_TIMEOUT	priv/static/assets/app.js	/^  var BEFORE_UNLOAD_LOADER_TIMEOUT = 200;$/;"	v
+BINDING_PREFIX	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var BINDING_PREFIX = "phx-";$/;"	v
+BINDING_PREFIX	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var BINDING_PREFIX = "phx-";$/;"	v
+BINDING_PREFIX	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var BINDING_PREFIX = "phx-";$/;"	v
+BINDING_PREFIX	priv/static/assets/app.js	/^  var BINDING_PREFIX = "phx-";$/;"	v
+CHECKABLE_INPUTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var CHECKABLE_INPUTS = ["checkbox", "radio"];$/;"	v
+CHECKABLE_INPUTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var CHECKABLE_INPUTS = ["checkbox", "radio"];$/;"	v
+CHECKABLE_INPUTS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var CHECKABLE_INPUTS = ["checkbox", "radio"];$/;"	v
+CHECKABLE_INPUTS	priv/static/assets/app.js	/^  var CHECKABLE_INPUTS = ["checkbox", "radio"];$/;"	v
+COMMENT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var COMMENT_NODE = 8;$/;"	v
+COMMENT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var COMMENT_NODE = 8;$/;"	v
+COMMENT_NODE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var COMMENT_NODE = 8;$/;"	v
+COMMENT_NODE	priv/static/assets/app.js	/^  var COMMENT_NODE = 8;$/;"	v
+COMPONENTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var COMPONENTS = "c";$/;"	v
+COMPONENTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var COMPONENTS = "c";$/;"	v
+COMPONENTS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var COMPONENTS = "c";$/;"	v
+COMPONENTS	priv/static/assets/app.js	/^  var COMPONENTS = "c";$/;"	v
+CONSECUTIVE_RELOADS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var CONSECUTIVE_RELOADS = "consecutive-reloads";$/;"	v
+CONSECUTIVE_RELOADS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var CONSECUTIVE_RELOADS = "consecutive-reloads";$/;"	v
+CONSECUTIVE_RELOADS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var CONSECUTIVE_RELOADS = "consecutive-reloads";$/;"	v
+CONSECUTIVE_RELOADS	priv/static/assets/app.js	/^  var CONSECUTIVE_RELOADS = "consecutive-reloads";$/;"	v
+COW_INLINE_HRL	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(COW_INLINE_HRL, 1).$/;"	d
+COW_PARSE_HRL	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(COW_PARSE_HRL, 1).$/;"	d
+ChannelCase	test/support/channel_case.ex	/^defmodule RumblWeb.ChannelCase do$/;"	m
+ConnCase	test/support/conn_case.ex	/^defmodule RumblWeb.ConnCase do$/;"	m
+CreateAnnotationsn	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220206000919_create_annotationsn.exs	/^defmodule Rumbl.Repo.Migrations.CreateAnnotationsn do$/;"	m
+CreateCategories	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220130164210_create_categories.exs	/^defmodule Rumbl.Repo.Migrations.CreateCategories do$/;"	m
+CreateUsers	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220129004833_create_users.exs	/^defmodule Rumbl.Repo.Migrations.CreateUsers do$/;"	m
+CreateVideos	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220129195126_create_videos.exs	/^defmodule Rumbl.Repo.Migrations.CreateVideos do$/;"	m
+CustomEvent	.elixir_ls/build/test/lib/phoenix_html/priv/static/phoenix_html.js	/^    CustomEvent.prototype = window.Event.prototype;$/;"	c
+CustomEvent2	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      CustomEvent2.prototype = window.Event.prototype;$/;"	c
+CustomEvent2	priv/static/assets/app.js	/^      CustomEvent2.prototype = window.Event.prototype;$/;"	c
+DEBOUNCE_PREV_KEY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var DEBOUNCE_PREV_KEY = "debounce-prev-key";$/;"	v
+DEBOUNCE_PREV_KEY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var DEBOUNCE_PREV_KEY = "debounce-prev-key";$/;"	v
+DEBOUNCE_PREV_KEY	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var DEBOUNCE_PREV_KEY = "debounce-prev-key";$/;"	v
+DEBOUNCE_PREV_KEY	priv/static/assets/app.js	/^  var DEBOUNCE_PREV_KEY = "debounce-prev-key";$/;"	v
+DEBOUNCE_TRIGGER	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var DEBOUNCE_TRIGGER = "debounce-trigger";$/;"	v
+DEBOUNCE_TRIGGER	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var DEBOUNCE_TRIGGER = "debounce-trigger";$/;"	v
+DEBOUNCE_TRIGGER	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var DEBOUNCE_TRIGGER = "debounce-trigger";$/;"	v
+DEBOUNCE_TRIGGER	priv/static/assets/app.js	/^  var DEBOUNCE_TRIGGER = "debounce-trigger";$/;"	v
+DEFAULT_TIMEOUT	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var DEFAULT_TIMEOUT = 1e4;$/;"	v
+DEFAULT_TIMEOUT	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var DEFAULT_TIMEOUT = 1e4;$/;"	v
+DEFAULT_TIMEOUT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var DEFAULT_TIMEOUT = 1e4;$/;"	v
+DEFAULT_TIMEOUT	priv/static/assets/app.js	/^  var DEFAULT_TIMEOUT = 1e4;$/;"	v
+DEFAULT_VSN	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var DEFAULT_VSN = "2.0.0";$/;"	v
+DEFAULT_VSN	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var DEFAULT_VSN = "2.0.0";$/;"	v
+DEFAULT_VSN	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var DEFAULT_VSN = "2.0.0";$/;"	v
+DEFAULT_VSN	priv/static/assets/app.js	/^  var DEFAULT_VSN = "2.0.0";$/;"	v
+DOCUMENT_FRAGMENT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var DOCUMENT_FRAGMENT_NODE = 11;$/;"	v
+DOCUMENT_FRAGMENT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var DOCUMENT_FRAGMENT_NODE = 11;$/;"	v
+DOCUMENT_FRAGMENT_NODE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var DOCUMENT_FRAGMENT_NODE = 11;$/;"	v
+DOCUMENT_FRAGMENT_NODE	priv/static/assets/app.js	/^  var DOCUMENT_FRAGMENT_NODE = 11;$/;"	v
+DOCUMENT_FRAGMENT_NODE$1	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var DOCUMENT_FRAGMENT_NODE$1 = 11;$/;"	v
+DOCUMENT_FRAGMENT_NODE$1	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var DOCUMENT_FRAGMENT_NODE$1 = 11;$/;"	v
+DOCUMENT_FRAGMENT_NODE$1	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var DOCUMENT_FRAGMENT_NODE$1 = 11;$/;"	v
+DOCUMENT_FRAGMENT_NODE$1	priv/static/assets/app.js	/^  var DOCUMENT_FRAGMENT_NODE$1 = 11;$/;"	v
+DYNAMICS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var DYNAMICS = "d";$/;"	v
+DYNAMICS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var DYNAMICS = "d";$/;"	v
+DYNAMICS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var DYNAMICS = "d";$/;"	v
+DYNAMICS	priv/static/assets/app.js	/^  var DYNAMICS = "d";$/;"	v
+ELEMENT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var ELEMENT_NODE = 1;$/;"	v
+ELEMENT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var ELEMENT_NODE = 1;$/;"	v
+ELEMENT_NODE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var ELEMENT_NODE = 1;$/;"	v
+ELEMENT_NODE	priv/static/assets/app.js	/^  var ELEMENT_NODE = 1;$/;"	v
+EVENTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var EVENTS = "e";$/;"	v
+EVENTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var EVENTS = "e";$/;"	v
+EVENTS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var EVENTS = "e";$/;"	v
+EVENTS	priv/static/assets/app.js	/^  var EVENTS = "e";$/;"	v
+Endpoint	lib/rumbl_web/endpoint.ex	/^defmodule RumblWeb.Endpoint do$/;"	m
+ErrorHelpers	lib/rumbl_web/views/error_helpers.ex	/^defmodule RumblWeb.ErrorHelpers do$/;"	m
+ErrorView	lib/rumbl_web/views/error_view.ex	/^defmodule RumblWeb.ErrorView do$/;"	m
+ErrorViewTest	test/rumbl_web/views/error_view_test.exs	/^defmodule RumblWeb.ErrorViewTest do$/;"	m
+FAILSAFE_JITTER	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var FAILSAFE_JITTER = 3e4;$/;"	v
+FAILSAFE_JITTER	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var FAILSAFE_JITTER = 3e4;$/;"	v
+FAILSAFE_JITTER	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var FAILSAFE_JITTER = 3e4;$/;"	v
+FAILSAFE_JITTER	priv/static/assets/app.js	/^  var FAILSAFE_JITTER = 3e4;$/;"	v
+FOCUSABLE_INPUTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var FOCUSABLE_INPUTS = ["text", "textarea", "number", "email", "password", "search", "tel", "url", "date", "time", "datetime-local", "color", "range"];$/;"	v
+FOCUSABLE_INPUTS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var FOCUSABLE_INPUTS = ["text", "textarea", "number", "email", "password", "search", "tel", "url", "date", "time", "datetime-local", "color", "range"];$/;"	v
+FOCUSABLE_INPUTS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var FOCUSABLE_INPUTS = ["text", "textarea", "number", "email", "password", "search", "tel", "url", "date", "time", "datetime-local", "color", "range"];$/;"	v
+FOCUSABLE_INPUTS	priv/static/assets/app.js	/^  var FOCUSABLE_INPUTS = ["text", "textarea", "number", "email", "password", "search", "tel", "url", "date", "time", "datetime-local", "color", "range"];$/;"	v
+Gettext	lib/rumbl_web/gettext.ex	/^defmodule RumblWeb.Gettext do$/;"	m
+HAS_RANGE_SUPPORT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var HAS_RANGE_SUPPORT = !!doc && doc.createRange && "createContextualFragment" in doc.createRange();$/;"	v
+HAS_RANGE_SUPPORT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var HAS_RANGE_SUPPORT = !!doc && doc.createRange && "createContextualFragment" in doc.createRange();$/;"	v
+HAS_RANGE_SUPPORT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var HAS_RANGE_SUPPORT = !!doc && doc.createRange && "createContextualFragment" in doc.createRange();$/;"	v
+HAS_RANGE_SUPPORT	priv/static/assets/app.js	/^  var HAS_RANGE_SUPPORT = !!doc && doc.createRange && "createContextualFragment" in doc.createRange();$/;"	v
+HAS_TEMPLATE_SUPPORT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var HAS_TEMPLATE_SUPPORT = !!doc && "content" in doc.createElement("template");$/;"	v
+HAS_TEMPLATE_SUPPORT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var HAS_TEMPLATE_SUPPORT = !!doc && "content" in doc.createElement("template");$/;"	v
+HAS_TEMPLATE_SUPPORT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var HAS_TEMPLATE_SUPPORT = !!doc && "content" in doc.createElement("template");$/;"	v
+HAS_TEMPLATE_SUPPORT	priv/static/assets/app.js	/^  var HAS_TEMPLATE_SUPPORT = !!doc && "content" in doc.createElement("template");$/;"	v
+HEADER_LENGTH	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  HEADER_LENGTH: 1,$/;"	p	class:serializer_default
+HEADER_LENGTH	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  HEADER_LENGTH: 1,$/;"	p	class:serializer_default
+HEADER_LENGTH	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    HEADER_LENGTH: 1,$/;"	p	class:serializer_default
+HEADER_LENGTH	priv/static/assets/app.js	/^    HEADER_LENGTH: 1,$/;"	p	class:serializer_default
+HEX	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(HEX(C), (?HEXHL(C bsr 4)), (?HEXHL(C band 16#0f))).$/;"	d
+HEXHL	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(HEXHL(HL),$/;"	d
+INPUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^  INPUT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+INPUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^  INPUT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+INPUT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    INPUT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+INPUT	priv/static/assets/app.js	/^    INPUT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+IS_ALPHA	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_ALPHA(C),$/;"	d
+IS_ALPHANUM	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_ALPHANUM(C), ?IS_ALPHA(C) or ?IS_DIGIT(C)).$/;"	d
+IS_CHAR	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_CHAR(C), C > 0, C < 128).$/;"	d
+IS_DIGIT	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_DIGIT(C),$/;"	d
+IS_ETAGC	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_ETAGC(C), C =:= 16#21; C >= 16#23, C =\/= 16#7f).$/;"	d
+IS_HEX	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_HEX(C),$/;"	d
+IS_LHEX	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_LHEX(C),$/;"	d
+IS_TOKEN	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_TOKEN(C),$/;"	d
+IS_TOKEN68	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_TOKEN68(C),$/;"	d
+IS_URI_GEN_DELIMS	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_URI_GEN_DELIMS(C),$/;"	d
+IS_URI_SUB_DELIMS	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_URI_SUB_DELIMS(C),$/;"	d
+IS_URI_UNRESERVED	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_URI_UNRESERVED(C),$/;"	d
+IS_VCHAR	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_VCHAR(C), C =:= $\\t; C > 31, C < 127).$/;"	d
+IS_VCHAR_OBS	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_VCHAR_OBS(C), C =:= $\\t; C > 31, C =\/= 127).$/;"	d
+IS_WS	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_WS(C), (C =:= $\\s) or (C =:= $\\t)).$/;"	d
+IS_WS_COMMA	.elixir_ls/build/test/lib/cowlib/include/cow_parse.hrl	/^-define(IS_WS_COMMA(C), ?IS_WS(C) or (C =:= $,)).$/;"	d
+KINDS	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  KINDS: { push: 0, reply: 1, broadcast: 2 },$/;"	p	class:serializer_default
+KINDS	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  KINDS: { push: 0, reply: 1, broadcast: 2 },$/;"	p	class:serializer_default
+KINDS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    KINDS: { push: 0, reply: 1, broadcast: 2 },$/;"	p	class:serializer_default
+KINDS	priv/static/assets/app.js	/^    KINDS: { push: 0, reply: 1, broadcast: 2 },$/;"	p	class:serializer_default
+LC	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LC(C), case C of$/;"	d
+LOADER_TIMEOUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var LOADER_TIMEOUT = 1;$/;"	v
+LOADER_TIMEOUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var LOADER_TIMEOUT = 1;$/;"	v
+LOADER_TIMEOUT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var LOADER_TIMEOUT = 1;$/;"	v
+LOADER_TIMEOUT	priv/static/assets/app.js	/^  var LOADER_TIMEOUT = 1;$/;"	v
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Bin), << << ?LC(C) >> || << C >> <= Bin >>).$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, A3, A4, A5, A6, A7, A8, A9, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, A3, A4, A5, A6, A7, A8, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, A3, A4, A5, A6, A7, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, A3, A4, A5, A6, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, A3, A4, A5, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, A3, A4, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, A3, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, A2, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, A1, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, A0, Acc), case C of$/;"	d
+LOWER	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(LOWER(Function, Rest, Acc), case C of$/;"	d
+LayoutView	lib/rumbl_web/views/layout_view.ex	/^defmodule RumblWeb.LayoutView do$/;"	m
+LayoutViewTest	test/rumbl_web/views/layout_view_test.exs	/^defmodule RumblWeb.LayoutViewTest do$/;"	m
+LiveFileUpload	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^  LiveFileUpload: {$/;"	p	class:Hooks
+LiveFileUpload	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^  LiveFileUpload: {$/;"	p	class:Hooks
+LiveFileUpload	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    LiveFileUpload: {$/;"	p	class:Hooks
+LiveFileUpload	priv/static/assets/app.js	/^    LiveFileUpload: {$/;"	p	class:Hooks
+MAX_RELOADS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var MAX_RELOADS = 10;$/;"	v
+MAX_RELOADS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var MAX_RELOADS = 10;$/;"	v
+MAX_RELOADS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var MAX_RELOADS = 10;$/;"	v
+MAX_RELOADS	priv/static/assets/app.js	/^  var MAX_RELOADS = 10;$/;"	v
+META_LENGTH	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  META_LENGTH: 4,$/;"	p	class:serializer_default
+META_LENGTH	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  META_LENGTH: 4,$/;"	p	class:serializer_default
+META_LENGTH	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    META_LENGTH: 4,$/;"	p	class:serializer_default
+META_LENGTH	priv/static/assets/app.js	/^    META_LENGTH: 4,$/;"	p	class:serializer_default
+MixProject	mix.exs	/^defmodule RumblWeb.MixProject do$/;"	m
+NS_XHTML	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var NS_XHTML = "http:\/\/www.w3.org\/1999\/xhtml";$/;"	v
+NS_XHTML	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var NS_XHTML = "http:\/\/www.w3.org\/1999\/xhtml";$/;"	v
+NS_XHTML	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var NS_XHTML = "http:\/\/www.w3.org\/1999\/xhtml";$/;"	v
+NS_XHTML	priv/static/assets/app.js	/^  var NS_XHTML = "http:\/\/www.w3.org\/1999\/xhtml";$/;"	v
+OPTION	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^  OPTION: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+OPTION	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^  OPTION: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+OPTION	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    OPTION: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+OPTION	priv/static/assets/app.js	/^    OPTION: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+PHX_ACTIVE_ENTRY_REFS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_ACTIVE_ENTRY_REFS = "data-phx-active-refs";$/;"	v
+PHX_ACTIVE_ENTRY_REFS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_ACTIVE_ENTRY_REFS = "data-phx-active-refs";$/;"	v
+PHX_ACTIVE_ENTRY_REFS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_ACTIVE_ENTRY_REFS = "data-phx-active-refs";$/;"	v
+PHX_ACTIVE_ENTRY_REFS	priv/static/assets/app.js	/^  var PHX_ACTIVE_ENTRY_REFS = "data-phx-active-refs";$/;"	v
+PHX_AUTO_RECOVER	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_AUTO_RECOVER = "auto-recover";$/;"	v
+PHX_AUTO_RECOVER	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_AUTO_RECOVER = "auto-recover";$/;"	v
+PHX_AUTO_RECOVER	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_AUTO_RECOVER = "auto-recover";$/;"	v
+PHX_AUTO_RECOVER	priv/static/assets/app.js	/^  var PHX_AUTO_RECOVER = "auto-recover";$/;"	v
+PHX_COMPONENT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_COMPONENT = "data-phx-component";$/;"	v
+PHX_COMPONENT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_COMPONENT = "data-phx-component";$/;"	v
+PHX_COMPONENT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_COMPONENT = "data-phx-component";$/;"	v
+PHX_COMPONENT	priv/static/assets/app.js	/^  var PHX_COMPONENT = "data-phx-component";$/;"	v
+PHX_CONNECTED_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_CONNECTED_CLASS = "phx-connected";$/;"	v
+PHX_CONNECTED_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_CONNECTED_CLASS = "phx-connected";$/;"	v
+PHX_CONNECTED_CLASS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_CONNECTED_CLASS = "phx-connected";$/;"	v
+PHX_CONNECTED_CLASS	priv/static/assets/app.js	/^  var PHX_CONNECTED_CLASS = "phx-connected";$/;"	v
+PHX_DEBOUNCE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_DEBOUNCE = "debounce";$/;"	v
+PHX_DEBOUNCE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_DEBOUNCE = "debounce";$/;"	v
+PHX_DEBOUNCE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_DEBOUNCE = "debounce";$/;"	v
+PHX_DEBOUNCE	priv/static/assets/app.js	/^  var PHX_DEBOUNCE = "debounce";$/;"	v
+PHX_DISABLED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_DISABLED = "data-phx-disabled";$/;"	v
+PHX_DISABLED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_DISABLED = "data-phx-disabled";$/;"	v
+PHX_DISABLED	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_DISABLED = "data-phx-disabled";$/;"	v
+PHX_DISABLED	priv/static/assets/app.js	/^  var PHX_DISABLED = "data-phx-disabled";$/;"	v
+PHX_DISABLE_WITH	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_DISABLE_WITH = "disable-with";$/;"	v
+PHX_DISABLE_WITH	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_DISABLE_WITH = "disable-with";$/;"	v
+PHX_DISABLE_WITH	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_DISABLE_WITH = "disable-with";$/;"	v
+PHX_DISABLE_WITH	priv/static/assets/app.js	/^  var PHX_DISABLE_WITH = "disable-with";$/;"	v
+PHX_DISABLE_WITH_RESTORE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_DISABLE_WITH_RESTORE = "data-phx-disable-with-restore";$/;"	v
+PHX_DISABLE_WITH_RESTORE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_DISABLE_WITH_RESTORE = "data-phx-disable-with-restore";$/;"	v
+PHX_DISABLE_WITH_RESTORE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_DISABLE_WITH_RESTORE = "data-phx-disable-with-restore";$/;"	v
+PHX_DISABLE_WITH_RESTORE	priv/static/assets/app.js	/^  var PHX_DISABLE_WITH_RESTORE = "data-phx-disable-with-restore";$/;"	v
+PHX_DISCONNECTED_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_DISCONNECTED_CLASS = "phx-loading";$/;"	v
+PHX_DISCONNECTED_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_DISCONNECTED_CLASS = "phx-loading";$/;"	v
+PHX_DISCONNECTED_CLASS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_DISCONNECTED_CLASS = "phx-loading";$/;"	v
+PHX_DISCONNECTED_CLASS	priv/static/assets/app.js	/^  var PHX_DISCONNECTED_CLASS = "phx-loading";$/;"	v
+PHX_DONE_REFS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_DONE_REFS = "data-phx-done-refs";$/;"	v
+PHX_DONE_REFS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_DONE_REFS = "data-phx-done-refs";$/;"	v
+PHX_DONE_REFS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_DONE_REFS = "data-phx-done-refs";$/;"	v
+PHX_DONE_REFS	priv/static/assets/app.js	/^  var PHX_DONE_REFS = "data-phx-done-refs";$/;"	v
+PHX_DROP_TARGET	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_DROP_TARGET = "drop-target";$/;"	v
+PHX_DROP_TARGET	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_DROP_TARGET = "drop-target";$/;"	v
+PHX_DROP_TARGET	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_DROP_TARGET = "drop-target";$/;"	v
+PHX_DROP_TARGET	priv/static/assets/app.js	/^  var PHX_DROP_TARGET = "drop-target";$/;"	v
+PHX_ERROR_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_ERROR_CLASS = "phx-error";$/;"	v
+PHX_ERROR_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_ERROR_CLASS = "phx-error";$/;"	v
+PHX_ERROR_CLASS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_ERROR_CLASS = "phx-error";$/;"	v
+PHX_ERROR_CLASS	priv/static/assets/app.js	/^  var PHX_ERROR_CLASS = "phx-error";$/;"	v
+PHX_EVENT_CLASSES	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_EVENT_CLASSES = [$/;"	v
+PHX_EVENT_CLASSES	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_EVENT_CLASSES = [$/;"	v
+PHX_EVENT_CLASSES	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_EVENT_CLASSES = [$/;"	v
+PHX_EVENT_CLASSES	priv/static/assets/app.js	/^  var PHX_EVENT_CLASSES = [$/;"	v
+PHX_FEEDBACK_FOR	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_FEEDBACK_FOR = "feedback-for";$/;"	v
+PHX_FEEDBACK_FOR	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_FEEDBACK_FOR = "feedback-for";$/;"	v
+PHX_FEEDBACK_FOR	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_FEEDBACK_FOR = "feedback-for";$/;"	v
+PHX_FEEDBACK_FOR	priv/static/assets/app.js	/^  var PHX_FEEDBACK_FOR = "feedback-for";$/;"	v
+PHX_HAS_FOCUSED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_HAS_FOCUSED = "phx-has-focused";$/;"	v
+PHX_HAS_FOCUSED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_HAS_FOCUSED = "phx-has-focused";$/;"	v
+PHX_HAS_FOCUSED	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_HAS_FOCUSED = "phx-has-focused";$/;"	v
+PHX_HAS_FOCUSED	priv/static/assets/app.js	/^  var PHX_HAS_FOCUSED = "phx-has-focused";$/;"	v
+PHX_HAS_SUBMITTED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_HAS_SUBMITTED = "phx-has-submitted";$/;"	v
+PHX_HAS_SUBMITTED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_HAS_SUBMITTED = "phx-has-submitted";$/;"	v
+PHX_HAS_SUBMITTED	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_HAS_SUBMITTED = "phx-has-submitted";$/;"	v
+PHX_HAS_SUBMITTED	priv/static/assets/app.js	/^  var PHX_HAS_SUBMITTED = "phx-has-submitted";$/;"	v
+PHX_HOOK	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_HOOK = "hook";$/;"	v
+PHX_HOOK	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_HOOK = "hook";$/;"	v
+PHX_HOOK	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_HOOK = "hook";$/;"	v
+PHX_HOOK	priv/static/assets/app.js	/^  var PHX_HOOK = "hook";$/;"	v
+PHX_KEY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_KEY = "key";$/;"	v
+PHX_KEY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_KEY = "key";$/;"	v
+PHX_KEY	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_KEY = "key";$/;"	v
+PHX_KEY	priv/static/assets/app.js	/^  var PHX_KEY = "key";$/;"	v
+PHX_LINK_STATE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_LINK_STATE = "data-phx-link-state";$/;"	v
+PHX_LINK_STATE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_LINK_STATE = "data-phx-link-state";$/;"	v
+PHX_LINK_STATE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_LINK_STATE = "data-phx-link-state";$/;"	v
+PHX_LINK_STATE	priv/static/assets/app.js	/^  var PHX_LINK_STATE = "data-phx-link-state";$/;"	v
+PHX_LIVE_FILE_UPDATED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_LIVE_FILE_UPDATED = "phx:live-file:updated";$/;"	v
+PHX_LIVE_FILE_UPDATED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_LIVE_FILE_UPDATED = "phx:live-file:updated";$/;"	v
+PHX_LIVE_FILE_UPDATED	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_LIVE_FILE_UPDATED = "phx:live-file:updated";$/;"	v
+PHX_LIVE_FILE_UPDATED	priv/static/assets/app.js	/^  var PHX_LIVE_FILE_UPDATED = "phx:live-file:updated";$/;"	v
+PHX_LIVE_LINK	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_LIVE_LINK = "data-phx-link";$/;"	v
+PHX_LIVE_LINK	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_LIVE_LINK = "data-phx-link";$/;"	v
+PHX_LIVE_LINK	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_LIVE_LINK = "data-phx-link";$/;"	v
+PHX_LIVE_LINK	priv/static/assets/app.js	/^  var PHX_LIVE_LINK = "data-phx-link";$/;"	v
+PHX_LV_DEBUG	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_LV_DEBUG = "phx:live-socket:debug";$/;"	v
+PHX_LV_DEBUG	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_LV_DEBUG = "phx:live-socket:debug";$/;"	v
+PHX_LV_DEBUG	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_LV_DEBUG = "phx:live-socket:debug";$/;"	v
+PHX_LV_DEBUG	priv/static/assets/app.js	/^  var PHX_LV_DEBUG = "phx:live-socket:debug";$/;"	v
+PHX_LV_LATENCY_SIM	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_LV_LATENCY_SIM = "phx:live-socket:latency-sim";$/;"	v
+PHX_LV_LATENCY_SIM	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_LV_LATENCY_SIM = "phx:live-socket:latency-sim";$/;"	v
+PHX_LV_LATENCY_SIM	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_LV_LATENCY_SIM = "phx:live-socket:latency-sim";$/;"	v
+PHX_LV_LATENCY_SIM	priv/static/assets/app.js	/^  var PHX_LV_LATENCY_SIM = "phx:live-socket:latency-sim";$/;"	v
+PHX_LV_PROFILE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_LV_PROFILE = "phx:live-socket:profiling";$/;"	v
+PHX_LV_PROFILE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_LV_PROFILE = "phx:live-socket:profiling";$/;"	v
+PHX_LV_PROFILE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_LV_PROFILE = "phx:live-socket:profiling";$/;"	v
+PHX_LV_PROFILE	priv/static/assets/app.js	/^  var PHX_LV_PROFILE = "phx:live-socket:profiling";$/;"	v
+PHX_MAIN	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_MAIN = "data-phx-main";$/;"	v
+PHX_MAIN	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_MAIN = "data-phx-main";$/;"	v
+PHX_MAIN	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_MAIN = "data-phx-main";$/;"	v
+PHX_MAIN	priv/static/assets/app.js	/^  var PHX_MAIN = "data-phx-main";$/;"	v
+PHX_NO_FEEDBACK_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_NO_FEEDBACK_CLASS = "phx-no-feedback";$/;"	v
+PHX_NO_FEEDBACK_CLASS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_NO_FEEDBACK_CLASS = "phx-no-feedback";$/;"	v
+PHX_NO_FEEDBACK_CLASS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_NO_FEEDBACK_CLASS = "phx-no-feedback";$/;"	v
+PHX_NO_FEEDBACK_CLASS	priv/static/assets/app.js	/^  var PHX_NO_FEEDBACK_CLASS = "phx-no-feedback";$/;"	v
+PHX_PAGE_LOADING	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_PAGE_LOADING = "page-loading";$/;"	v
+PHX_PAGE_LOADING	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_PAGE_LOADING = "page-loading";$/;"	v
+PHX_PAGE_LOADING	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_PAGE_LOADING = "page-loading";$/;"	v
+PHX_PAGE_LOADING	priv/static/assets/app.js	/^  var PHX_PAGE_LOADING = "page-loading";$/;"	v
+PHX_PARENT_ID	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_PARENT_ID = "data-phx-parent-id";$/;"	v
+PHX_PARENT_ID	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_PARENT_ID = "data-phx-parent-id";$/;"	v
+PHX_PARENT_ID	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_PARENT_ID = "data-phx-parent-id";$/;"	v
+PHX_PARENT_ID	priv/static/assets/app.js	/^  var PHX_PARENT_ID = "data-phx-parent-id";$/;"	v
+PHX_PREFLIGHTED_REFS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_PREFLIGHTED_REFS = "data-phx-preflighted-refs";$/;"	v
+PHX_PREFLIGHTED_REFS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_PREFLIGHTED_REFS = "data-phx-preflighted-refs";$/;"	v
+PHX_PREFLIGHTED_REFS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_PREFLIGHTED_REFS = "data-phx-preflighted-refs";$/;"	v
+PHX_PREFLIGHTED_REFS	priv/static/assets/app.js	/^  var PHX_PREFLIGHTED_REFS = "data-phx-preflighted-refs";$/;"	v
+PHX_PRIVATE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_PRIVATE = "phxPrivate";$/;"	v
+PHX_PRIVATE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_PRIVATE = "phxPrivate";$/;"	v
+PHX_PRIVATE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_PRIVATE = "phxPrivate";$/;"	v
+PHX_PRIVATE	priv/static/assets/app.js	/^  var PHX_PRIVATE = "phxPrivate";$/;"	v
+PHX_PROGRESS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_PROGRESS = "progress";$/;"	v
+PHX_PROGRESS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_PROGRESS = "progress";$/;"	v
+PHX_PROGRESS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_PROGRESS = "progress";$/;"	v
+PHX_PROGRESS	priv/static/assets/app.js	/^  var PHX_PROGRESS = "progress";$/;"	v
+PHX_PRUNE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_PRUNE = "data-phx-prune";$/;"	v
+PHX_PRUNE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_PRUNE = "data-phx-prune";$/;"	v
+PHX_PRUNE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_PRUNE = "data-phx-prune";$/;"	v
+PHX_PRUNE	priv/static/assets/app.js	/^  var PHX_PRUNE = "data-phx-prune";$/;"	v
+PHX_READONLY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_READONLY = "data-phx-readonly";$/;"	v
+PHX_READONLY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_READONLY = "data-phx-readonly";$/;"	v
+PHX_READONLY	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_READONLY = "data-phx-readonly";$/;"	v
+PHX_READONLY	priv/static/assets/app.js	/^  var PHX_READONLY = "data-phx-readonly";$/;"	v
+PHX_REF	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_REF = "data-phx-ref";$/;"	v
+PHX_REF	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_REF = "data-phx-ref";$/;"	v
+PHX_REF	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_REF = "data-phx-ref";$/;"	v
+PHX_REF	priv/static/assets/app.js	/^  var PHX_REF = "data-phx-ref";$/;"	v
+PHX_REF_SRC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_REF_SRC = "data-phx-ref-src";$/;"	v
+PHX_REF_SRC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_REF_SRC = "data-phx-ref-src";$/;"	v
+PHX_REF_SRC	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_REF_SRC = "data-phx-ref-src";$/;"	v
+PHX_REF_SRC	priv/static/assets/app.js	/^  var PHX_REF_SRC = "data-phx-ref-src";$/;"	v
+PHX_ROOT_ID	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_ROOT_ID = "data-phx-root-id";$/;"	v
+PHX_ROOT_ID	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_ROOT_ID = "data-phx-root-id";$/;"	v
+PHX_ROOT_ID	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_ROOT_ID = "data-phx-root-id";$/;"	v
+PHX_ROOT_ID	priv/static/assets/app.js	/^  var PHX_ROOT_ID = "data-phx-root-id";$/;"	v
+PHX_SESSION	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_SESSION = "data-phx-session";$/;"	v
+PHX_SESSION	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_SESSION = "data-phx-session";$/;"	v
+PHX_SESSION	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_SESSION = "data-phx-session";$/;"	v
+PHX_SESSION	priv/static/assets/app.js	/^  var PHX_SESSION = "data-phx-session";$/;"	v
+PHX_SKIP	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_SKIP = "data-phx-skip";$/;"	v
+PHX_SKIP	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_SKIP = "data-phx-skip";$/;"	v
+PHX_SKIP	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_SKIP = "data-phx-skip";$/;"	v
+PHX_SKIP	priv/static/assets/app.js	/^  var PHX_SKIP = "data-phx-skip";$/;"	v
+PHX_STATIC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_STATIC = "data-phx-static";$/;"	v
+PHX_STATIC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_STATIC = "data-phx-static";$/;"	v
+PHX_STATIC	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_STATIC = "data-phx-static";$/;"	v
+PHX_STATIC	priv/static/assets/app.js	/^  var PHX_STATIC = "data-phx-static";$/;"	v
+PHX_STICKY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_STICKY = "data-phx-sticky";$/;"	v
+PHX_STICKY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_STICKY = "data-phx-sticky";$/;"	v
+PHX_STICKY	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_STICKY = "data-phx-sticky";$/;"	v
+PHX_STICKY	priv/static/assets/app.js	/^  var PHX_STICKY = "data-phx-sticky";$/;"	v
+PHX_THROTTLE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_THROTTLE = "throttle";$/;"	v
+PHX_THROTTLE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_THROTTLE = "throttle";$/;"	v
+PHX_THROTTLE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_THROTTLE = "throttle";$/;"	v
+PHX_THROTTLE	priv/static/assets/app.js	/^  var PHX_THROTTLE = "throttle";$/;"	v
+PHX_TRACK_STATIC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_TRACK_STATIC = "track-static";$/;"	v
+PHX_TRACK_STATIC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_TRACK_STATIC = "track-static";$/;"	v
+PHX_TRACK_STATIC	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_TRACK_STATIC = "track-static";$/;"	v
+PHX_TRACK_STATIC	priv/static/assets/app.js	/^  var PHX_TRACK_STATIC = "track-static";$/;"	v
+PHX_TRACK_UPLOADS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_TRACK_UPLOADS = "track-uploads";$/;"	v
+PHX_TRACK_UPLOADS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_TRACK_UPLOADS = "track-uploads";$/;"	v
+PHX_TRACK_UPLOADS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_TRACK_UPLOADS = "track-uploads";$/;"	v
+PHX_TRACK_UPLOADS	priv/static/assets/app.js	/^  var PHX_TRACK_UPLOADS = "track-uploads";$/;"	v
+PHX_TRIGGER_ACTION	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_TRIGGER_ACTION = "trigger-action";$/;"	v
+PHX_TRIGGER_ACTION	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_TRIGGER_ACTION = "trigger-action";$/;"	v
+PHX_TRIGGER_ACTION	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_TRIGGER_ACTION = "trigger-action";$/;"	v
+PHX_TRIGGER_ACTION	priv/static/assets/app.js	/^  var PHX_TRIGGER_ACTION = "trigger-action";$/;"	v
+PHX_UPDATE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_UPDATE = "update";$/;"	v
+PHX_UPDATE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_UPDATE = "update";$/;"	v
+PHX_UPDATE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_UPDATE = "update";$/;"	v
+PHX_UPDATE	priv/static/assets/app.js	/^  var PHX_UPDATE = "update";$/;"	v
+PHX_UPLOAD_REF	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PHX_UPLOAD_REF = "data-phx-upload-ref";$/;"	v
+PHX_UPLOAD_REF	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PHX_UPLOAD_REF = "data-phx-upload-ref";$/;"	v
+PHX_UPLOAD_REF	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PHX_UPLOAD_REF = "data-phx-upload-ref";$/;"	v
+PHX_UPLOAD_REF	priv/static/assets/app.js	/^  var PHX_UPLOAD_REF = "data-phx-upload-ref";$/;"	v
+PUSH_TIMEOUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var PUSH_TIMEOUT = 3e4;$/;"	v
+PUSH_TIMEOUT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var PUSH_TIMEOUT = 3e4;$/;"	v
+PUSH_TIMEOUT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var PUSH_TIMEOUT = 3e4;$/;"	v
+PUSH_TIMEOUT	priv/static/assets/app.js	/^  var PUSH_TIMEOUT = 3e4;$/;"	v
+PageController	lib/rumbl_web/controllers/page_controller.ex	/^defmodule RumblWeb.PageController do$/;"	m
+PageControllerTest	test/rumbl_web/controllers/page_controller_test.exs	/^defmodule RumblWeb.PageControllerTest do$/;"	m
+PageView	lib/rumbl_web/views/page_view.ex	/^defmodule RumblWeb.PageView do$/;"	m
+PageViewTest	test/rumbl_web/views/page_view_test.exs	/^defmodule RumblWeb.PageViewTest do$/;"	m
+Param	lib/rumbl_web/param.ex	/^defimpl Phoenix.Param, for: Rumbl.Multimedia.Videos  do$/;"	i
+Presence	lib/rumbl_web/channels/presence.ex	/^defmodule RumblWeb.Presence do$/;"	m
+RELOAD_JITTER_MAX	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var RELOAD_JITTER_MAX = 3e3;$/;"	v
+RELOAD_JITTER_MAX	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var RELOAD_JITTER_MAX = 3e3;$/;"	v
+RELOAD_JITTER_MAX	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var RELOAD_JITTER_MAX = 3e3;$/;"	v
+RELOAD_JITTER_MAX	priv/static/assets/app.js	/^  var RELOAD_JITTER_MAX = 3e3;$/;"	v
+RELOAD_JITTER_MIN	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var RELOAD_JITTER_MIN = 1e3;$/;"	v
+RELOAD_JITTER_MIN	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var RELOAD_JITTER_MIN = 1e3;$/;"	v
+RELOAD_JITTER_MIN	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var RELOAD_JITTER_MIN = 1e3;$/;"	v
+RELOAD_JITTER_MIN	priv/static/assets/app.js	/^  var RELOAD_JITTER_MIN = 1e3;$/;"	v
+REPLY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var REPLY = "r";$/;"	v
+REPLY	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var REPLY = "r";$/;"	v
+REPLY	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var REPLY = "r";$/;"	v
+REPLY	priv/static/assets/app.js	/^  var REPLY = "r";$/;"	v
+Router	lib/rumbl_web/router.ex	/^defmodule RumblWeb.Router do$/;"	m
+RumblWeb	lib/rumbl_web.ex	/^defmodule RumblWeb do$/;"	m
+SELECT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^  SELECT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+SELECT	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^  SELECT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+SELECT	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    SELECT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+SELECT	priv/static/assets/app.js	/^    SELECT: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+STATIC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var STATIC = "s";$/;"	v
+STATIC	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var STATIC = "s";$/;"	v
+STATIC	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var STATIC = "s";$/;"	v
+STATIC	priv/static/assets/app.js	/^  var STATIC = "s";$/;"	v
+SessionController	lib/rumbl_web/controllers/session_controller.ex	/^defmodule RumblWeb.SessionController do$/;"	m
+SessionView	lib/rumbl_web/views/session_view.ex	/^defmodule RumblWeb.SessionView do$/;"	m
+TEMPLATES	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var TEMPLATES = "p";$/;"	v
+TEMPLATES	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var TEMPLATES = "p";$/;"	v
+TEMPLATES	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var TEMPLATES = "p";$/;"	v
+TEMPLATES	priv/static/assets/app.js	/^  var TEMPLATES = "p";$/;"	v
+TEXTAREA	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^  TEXTAREA: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+TEXTAREA	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^  TEXTAREA: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+TEXTAREA	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    TEXTAREA: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+TEXTAREA	priv/static/assets/app.js	/^    TEXTAREA: function(fromEl, toEl) {$/;"	m	class:specialElHandlers
+TEXT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var TEXT_NODE = 3;$/;"	v
+TEXT_NODE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var TEXT_NODE = 3;$/;"	v
+TEXT_NODE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var TEXT_NODE = 3;$/;"	v
+TEXT_NODE	priv/static/assets/app.js	/^  var TEXT_NODE = 3;$/;"	v
+THROTTLED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var THROTTLED = "throttled";$/;"	v
+THROTTLED	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var THROTTLED = "throttled";$/;"	v
+THROTTLED	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var THROTTLED = "throttled";$/;"	v
+THROTTLED	priv/static/assets/app.js	/^  var THROTTLED = "throttled";$/;"	v
+TITLE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var TITLE = "t";$/;"	v
+TITLE	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var TITLE = "t";$/;"	v
+TITLE	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var TITLE = "t";$/;"	v
+TITLE	priv/static/assets/app.js	/^  var TITLE = "t";$/;"	v
+Telemetry	lib/rumbl_web/telemetry.ex	/^defmodule RumblWeb.Telemetry do$/;"	m
+TestHelpers	test/support/test_helper.ex	/^defmodule RumblWeb.TestHelpers do$/;"	m
+UNHEX	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(UNHEX(C),$/;"	d
+UNHEX	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^-define(UNHEX(H, L), (?UNHEX(H) bsl 4 bor ?UNHEX(L))).$/;"	d
+UserController	lib/rumbl_web/controllers/user_controller.ex	/^defmodule RumblWeb.UserController do$/;"	m
+UserSocket	lib/rumbl_web/channels/user_socket.ex	/^defmodule RumblWeb.UserSocket do$/;"	m
+UserSocketChannel	lib/rumbl_web/channels/user_socket_channel.ex	/^defmodule RumblWeb.UserSocketChannel do$/;"	m
+UserSocketChannelTest	test/rumbl_web/channels/user_socket_channel_test.exs	/^defmodule RumblWeb.UserSocketChannelTest do$/;"	m
+UserSocketTest	test/rumbl_web/channels/user_socket_test.exs	/^defmodule RumblWeb.Chanels.UserSocketTest do$/;"	m
+UserView	lib/rumbl_web/views/user_view.ex	/^defmodule RumblWeb.UserView do$/;"	m
+VideosChannel	lib/rumbl_web/channels/videos_channel.ex	/^defmodule RumblWeb.VideosChannel do$/;"	m
+VideosChannelTest	test/rumbl_web/channels/videos_channel_test.exs	/^defmodule RumblWeb.VideosChannelTest do$/;"	m
+VideosController	lib/rumbl_web/controllers/videos_controller.ex	/^defmodule RumblWeb.VideosController do$/;"	m
+VideosControllerTest	test/rumbl_web/controllers/videos_controller_test.exs	/^defmodule VideosControllerTest do$/;"	m
+VideosView	lib/rumbl_web/views/videos_view.ex	/^defmodule RumblWeb.VideosView do$/;"	m
+WS_CLOSE_NORMAL	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var WS_CLOSE_NORMAL = 1e3;$/;"	v
+WS_CLOSE_NORMAL	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var WS_CLOSE_NORMAL = 1e3;$/;"	v
+WS_CLOSE_NORMAL	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var WS_CLOSE_NORMAL = 1e3;$/;"	v
+WS_CLOSE_NORMAL	priv/static/assets/app.js	/^  var WS_CLOSE_NORMAL = 1e3;$/;"	v
+WatchController	lib/rumbl_web/controllers/watch_controller.ex	/^defmodule RumblWeb.WatchController do$/;"	m
+WatchView	lib/rumbl_web/views/watch_view.ex	/^defmodule RumblWeb.WatchView do$/;"	m
+__using__	lib/rumbl_web.ex	/^  defmacro __using__(which) when is_atom(which) do$/;"	a
+_onDone	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    this._onDone = function() {$/;"	f
+_onDone	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    this._onDone = function() {$/;"	f
+_onDone	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this._onDone = function() {$/;"	f
+_onDone	priv/static/assets/app.js	/^      this._onDone = function() {$/;"	f
+action	lib/rumbl_web/controllers/videos_controller.ex	/^  def action(conn, _) do$/;"	f
+addKeyedRemoval	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function addKeyedRemoval(key) {$/;"	f
+addKeyedRemoval	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function addKeyedRemoval(key) {$/;"	f
+addKeyedRemoval	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function addKeyedRemoval(key) {$/;"	f
+addKeyedRemoval	priv/static/assets/app.js	/^      function addKeyedRemoval(key) {$/;"	f
+aliases	mix.exs	/^  defp aliases do$/;"	f
+allows fields to be set	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "allows fields to be set" do$/;"	t
+application	mix.exs	/^  def application do$/;"	f
+applies the email without persisting it	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "applies the email without persisting it", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+apply_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def apply_<%= schema.singular %>_email(<%= schema.singular %>, password, attrs) do$/;"	f
+apply_action	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/index.ex	/^  defp apply_action(socket, :edit, %{"id" => id}) do$/;"	f
+apply_action	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/index.ex	/^  defp apply_action(socket, :index, _params) do$/;"	f
+apply_action	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/index.ex	/^  defp apply_action(socket, :new, _params) do$/;"	f
+assign_email_and_password_changesets	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller.ex	/^  defp assign_email_and_password_changesets(conn, _opts) do$/;"	f
+authenticate_user	lib/rumbl_web/controllers/auth.ex	/^  def authenticate_user(conn, _opts) do$/;"	f
+authenticates	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "authenticates <%= schema.singular %> from cookies", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+authenticates	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "authenticates <%= schema.singular %> from session", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+authorized?	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.channel/channel.ex	/^  defp authorized?(_payload) do$/;"	f
+authorized?	lib/rumbl_web/channels/user_socket_channel.ex	/^  defp authorized?(_payload) do$/;"	f
+autoRun	assets/vendor/topbar.js	/^      autoRun: true,$/;"	p
+barColors	assets/vendor/topbar.js	/^      barColors: {$/;"	p
+barThickness	assets/vendor/topbar.js	/^      barThickness: 3,$/;"	p
+beforeadded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^      beforeadded: [],$/;"	p	class:callbacks
+beforeadded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^      beforeadded: [],$/;"	p	class:callbacks
+beforeadded	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        beforeadded: [],$/;"	p	class:callbacks
+beforeadded	priv/static/assets/app.js	/^        beforeadded: [],$/;"	p	class:callbacks
+broadcast_annotationn	lib/rumbl_web/channels/videos_channel.ex	/^  defp broadcast_annotationn(socket, user, annotation) do$/;"	f
+broadcasts are pushed to the client	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.channel/channel_test.exs	/^  test "broadcasts are pushed to the client", %{socket: socket} do$/;"	t
+broadcasts are pushed to the client	test/rumbl_web/channels/user_socket_channel_test.exs	/^  test "broadcasts are pushed to the client", %{socket: socket} do$/;"	t
+broadcasts to the given live_socket_id	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "broadcasts to the given live_socket_id", %{conn: conn} do$/;"	t
+browser_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var browser_default = Browser;$/;"	v
+browser_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var browser_default = Browser;$/;"	v
+browser_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var browser_default = Browser;$/;"	v
+browser_default	priv/static/assets/app.js	/^  var browser_default = Browser;$/;"	v
+buffer	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    let output = { buffer: "", components, onlyCids };$/;"	p	class:let
+buffer	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    let output = { buffer: "", components, onlyCids };$/;"	p	class:let
+buffer	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      let output = { buffer: "", components, onlyCids };$/;"	p	class:let
+buffer	priv/static/assets/app.js	/^      let output = { buffer: "", components, onlyCids };$/;"	p	class:let
+buildHiddenInput	.elixir_ls/build/test/lib/phoenix_html/priv/static/phoenix_html.js	/^  function buildHiddenInput(name, value) {$/;"	f
+buildHiddenInput	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    function buildHiddenInput(name, value) {$/;"	f
+buildHiddenInput	priv/static/assets/app.js	/^    function buildHiddenInput(name, value) {$/;"	f
+build_email_token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  def build_email_token(<%= schema.singular %>, context) do$/;"	f
+build_hashed_token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  defp build_hashed_token(<%= schema.singular %>, context, sent_to) do$/;"	f
+build_session_token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  def build_session_token(<%= schema.singular %>) do$/;"	f
+call	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/fallback_controller.ex	/^  def call(conn, {:error, %Ecto.Changeset{} = changeset}) do$/;"	f
+call	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/fallback_controller.ex	/^  def call(conn, {:error, :not_found}) do$/;"	f
+call	lib/rumbl_web/controllers/auth.ex	/^  def call(conn, _opts) do$/;"	f
+canvas	assets/vendor/topbar.js	/^  var canvas,$/;"	f
+category_select_option	lib/rumbl_web/views/videos_view.ex	/^  def category_select_option(categories) do$/;"	f
+change	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/migration.ex	/^  def change do<%= if Enum.any?(migration.extensions) do %><%= for extension <- migration.extensions do %>$/;"	f
+change	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.schema/migration.exs	/^  def change do$/;"	f
+change	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220129004833_create_users.exs	/^  def change do$/;"	f
+change	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220129195126_create_videos.exs	/^  def change do$/;"	f
+change	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220130164210_create_categories.exs	/^  def change do$/;"	f
+change	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220130165334_add_category_id_to_video.exs	/^  def change do$/;"	f
+change	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220203195313_add_slug_to_videos.exs	/^  def change do$/;"	f
+change	.elixir_ls/build/test/lib/rumbl/priv/repo/migrations/20220206000919_create_annotationsn.exs	/^  def change do$/;"	f
+change_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def change_<%= schema.singular %>_email(<%= schema.singular %>, attrs \\\\ %{}) do$/;"	f
+change_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def change_<%= schema.singular %>_password(<%= schema.singular %>, attrs \\\\ %{}) do$/;"	f
+change_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def change_<%= schema.singular %>_registration(%<%= inspect schema.alias %>{} = <%= schema.singular %>, attrs \\\\ %{}) do$/;"	f
+change_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/access_no_schema.ex	/^  def change_<%= schema.singular %>(%<%= inspect schema.alias %>{} = <%= schema.singular %>, _attrs \\\\ %{}) do$/;"	f
+change_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/schema_access.ex	/^  def change_<%= schema.singular %>(%<%= inspect schema.alias %>{} = <%= schema.singular %>, attrs \\\\ %{}) do$/;"	f
+change_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "change_<%= schema.singular %>\/1 returns a <%= schema.singular %> changeset" do$/;"	t
+changeset	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.embedded/embedded_schema.ex	/^  def changeset(%<%= inspect schema.alias %>{} = <%= schema.singular %>, attrs) do$/;"	f
+changeset	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.schema/schema.ex	/^  def changeset(<%= schema.singular %>, attrs) do$/;"	f
+channel	lib/rumbl_web.ex	/^  def channel do$/;"	f
+channelUploader	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var channelUploader = function(entries, onError, resp, liveSocket) {$/;"	f
+channelUploader	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var channelUploader = function(entries, onError, resp, liveSocket) {$/;"	f
+channelUploader	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var channelUploader = function(entries, onError, resp, liveSocket2) {$/;"	f
+channelUploader	priv/static/assets/app.js	/^  var channelUploader = function(entries, onError, resp, liveSocket2) {$/;"	f
+childrenOnly	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var childrenOnly = options.childrenOnly === true;$/;"	v
+childrenOnly	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var childrenOnly = options.childrenOnly === true;$/;"	v
+childrenOnly	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var childrenOnly = options.childrenOnly === true;$/;"	v
+childrenOnly	priv/static/assets/app.js	/^      var childrenOnly = options.childrenOnly === true;$/;"	v
+cleanupFromEl	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function cleanupFromEl(fromEl, curFromNodeChild, curFromNodeKey) {$/;"	f
+cleanupFromEl	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function cleanupFromEl(fromEl, curFromNodeChild, curFromNodeKey) {$/;"	f
+cleanupFromEl	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function cleanupFromEl(fromEl, curFromNodeChild, curFromNodeKey) {$/;"	f
+cleanupFromEl	priv/static/assets/app.js	/^      function cleanupFromEl(fromEl, curFromNodeChild, curFromNodeKey) {$/;"	f
+clears everything previously stored in the session	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "clears everything previously stored in the session", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+close	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  close: "phx_close",$/;"	p	class:CHANNEL_EVENTS
+close	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  close: "phx_close",$/;"	p	class:CHANNEL_EVENTS
+close	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    close: "phx_close",$/;"	p	class:CHANNEL_EVENTS
+close	priv/static/assets/app.js	/^    close: "phx_close",$/;"	p	class:CHANNEL_EVENTS
+closed	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  closed: "closed",$/;"	p	class:CHANNEL_STATES
+closed	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+closed	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  closed: "closed",$/;"	p	class:CHANNEL_STATES
+closed	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+closed	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    closed: "closed",$/;"	p	class:CHANNEL_STATES
+closed	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+closed	priv/static/assets/app.js	/^    closed: "closed",$/;"	p	class:CHANNEL_STATES
+closed	priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+closing	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+closing	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+closing	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+closing	priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+compareNodeNames	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function compareNodeNames(fromEl, toEl) {$/;"	f
+compareNodeNames	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function compareNodeNames(fromEl, toEl) {$/;"	f
+compareNodeNames	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function compareNodeNames(fromEl, toEl) {$/;"	f
+compareNodeNames	priv/static/assets/app.js	/^  function compareNodeNames(fromEl, toEl) {$/;"	f
+complete	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  complete: 4$/;"	p	class:XHR_STATES
+complete	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  complete: 4$/;"	p	class:XHR_STATES
+complete	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    complete: 4$/;"	p	class:XHR_STATES
+complete	priv/static/assets/app.js	/^    complete: 4$/;"	p	class:XHR_STATES
+component	lib/rumbl_web.ex	/^  def component do$/;"	f
+compute_additionalinfo	lib/rumbl_web/channels/videos_channel.ex	/^  defp compute_additionalinfo(annotation, socket) do$/;"	f
+config	assets/vendor/topbar.js	/^      config: function (opts) {$/;"	m
+config_change	lib/rumbl_web/application.ex	/^  def config_change(changed, _new, removed) do$/;"	f
+confirm_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def confirm_<%= schema.singular %>(token) do$/;"	f
+confirm_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  defp confirm_<%= schema.singular %>_multi(<%= schema.singular %>) do$/;"	f
+confirm_changeset	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  def confirm_changeset(<%= schema.singular %>) do$/;"	f
+confirm_email	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller.ex	/^  def confirm_email(conn, %{"token" => token}) do$/;"	f
+confirms the email with a valid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "confirms the email with a valid token", %{<%= schema.singular %>: <%= schema.singular %>, token: token} do$/;"	t
+confirms the given token once	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller_test.exs	/^    test "confirms the given token once", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+connect	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.socket/socket.ex	/^  def connect(_params, socket, _connect_info) do$/;"	f
+connect	lib/rumbl_web/channels/user_socket.ex	/^  def connect(%{"token" => token}, socket, _connect_info) do$/;"	f
+connect	lib/rumbl_web/channels/user_socket.ex	/^  def connect(_params, _socket, _connect_info), do: :error$/;"	f
+connecting	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+connecting	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+connecting	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+connecting	priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+controller	lib/rumbl_web.ex	/^  def controller do$/;"	f
+create	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller.ex	/^  def create(conn, %{"<%= schema.singular %>" => %{"email" => email}}) do$/;"	f
+create	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/registration_controller.ex	/^  def create(conn, %{"<%= schema.singular %>" => <%= schema.singular %>_params}) do$/;"	f
+create	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller.ex	/^  def create(conn, %{"<%= schema.singular %>" => %{"email" => email}}) do$/;"	f
+create	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller.ex	/^  def create(conn, %{"<%= schema.singular %>" => <%= schema.singular %>_params}) do$/;"	f
+create	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller.ex	/^  def create(conn, %{<%= inspect schema.singular %> => <%= schema.singular %>_params}) do$/;"	f
+create	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller.ex	/^  def create(conn, %{<%= inspect schema.singular %> => <%= schema.singular %>_params}) do$/;"	f
+create	lib/rumbl_web/controllers/session_controller.ex	/^  def create(conn, %{"session" => %{"username" => username, "password" => pass}}) do $/;"	f
+create	lib/rumbl_web/controllers/user_controller.ex	/^  def create(conn, %{"user" => user_params}) do$/;"	f
+create	lib/rumbl_web/controllers/videos_controller.ex	/^  def create(conn, %{"videos" => videos_params}, current_user) do$/;"	f
+createElementNS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function createElementNS(name, namespaceURI) {$/;"	f
+createElementNS	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function createElementNS(name, namespaceURI) {$/;"	f
+createElementNS	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function createElementNS(name, namespaceURI) {$/;"	f
+createElementNS	priv/static/assets/app.js	/^  function createElementNS(name, namespaceURI) {$/;"	f
+createFragmentFromRange	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function createFragmentFromRange(str) {$/;"	f
+createFragmentFromRange	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function createFragmentFromRange(str) {$/;"	f
+createFragmentFromRange	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function createFragmentFromRange(str) {$/;"	f
+createFragmentFromRange	priv/static/assets/app.js	/^  function createFragmentFromRange(str) {$/;"	f
+createFragmentFromTemplate	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function createFragmentFromTemplate(str) {$/;"	f
+createFragmentFromTemplate	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function createFragmentFromTemplate(str) {$/;"	f
+createFragmentFromTemplate	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function createFragmentFromTemplate(str) {$/;"	f
+createFragmentFromTemplate	priv/static/assets/app.js	/^  function createFragmentFromTemplate(str) {$/;"	f
+createFragmentFromWrap	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function createFragmentFromWrap(str) {$/;"	f
+createFragmentFromWrap	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function createFragmentFromWrap(str) {$/;"	f
+createFragmentFromWrap	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function createFragmentFromWrap(str) {$/;"	f
+createFragmentFromWrap	priv/static/assets/app.js	/^  function createFragmentFromWrap(str) {$/;"	f
+create_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/access_no_schema.ex	/^  def create_<%= schema.singular %>(attrs \\\\ %{}) do$/;"	f
+create_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/schema_access.ex	/^  def create_<%= schema.singular %>(attrs \\\\ %{}) do$/;"	f
+create_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "create_<%= schema.singular %>\/1 with invalid data returns error changeset" do$/;"	t
+create_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "create_<%= schema.singular %>\/1 with valid data creates a <%= schema.singular %>" do$/;"	t
+create_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^  defp create_<%= schema.singular %>(_) do$/;"	f
+create_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller_test.exs	/^  defp create_<%= schema.singular %>(_) do$/;"	f
+create_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_test.exs	/^  defp create_<%= schema.singular %>(_) do$/;"	f
+creates account and logs the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/registration_controller_test.exs	/^    test "creates account and logs the <%= schema.singular %> in", %{conn: conn} do$/;"	t
+csrfToken	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var csrfToken = document.querySelector("meta[name='csrf-token']").getAttribute("content");$/;"	v
+csrfToken	priv/static/assets/app.js	/^  var csrfToken = document.querySelector("meta[name='csrf-token']").getAttribute("content");$/;"	v
+days_for_context	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  defp days_for_context("confirm"), do: @confirm_validity_in_days$/;"	f
+days_for_context	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  defp days_for_context("reset_password"), do: @reset_password_validity_in_days$/;"	f
+debounce	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^  debounce: 300,$/;"	p	class:DEFAULTS
+debounce	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^  debounce: 300,$/;"	p	class:DEFAULTS
+debounce	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    debounce: 300,$/;"	p	class:DEFAULTS
+debounce	priv/static/assets/app.js	/^    debounce: 300,$/;"	p	class:DEFAULTS
+defaultGetNodeKey	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function defaultGetNodeKey(node) {$/;"	f
+defaultGetNodeKey	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function defaultGetNodeKey(node) {$/;"	f
+defaultGetNodeKey	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function defaultGetNodeKey(node) {$/;"	f
+defaultGetNodeKey	priv/static/assets/app.js	/^  function defaultGetNodeKey(node) {$/;"	f
+default_user	test/support/test_helper.ex	/^  defp default_user() do$/;"	f
+default_video	test/support/test_helper.ex	/^  defp default_video() do$/;"	f
+delete	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller.ex	/^  def delete(conn, _params) do$/;"	f
+delete	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller.ex	/^  def delete(conn, %{"id" => id}) do$/;"	f
+delete	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller.ex	/^  def delete(conn, %{"id" => id}) do$/;"	f
+delete	lib/rumbl_web/controllers/session_controller.ex	/^  def delete(conn, _opts) do$/;"	f
+delete	lib/rumbl_web/controllers/videos_controller.ex	/^  def delete(conn, %{"id" => id}, current_user) do$/;"	f
+delete_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/access_no_schema.ex	/^  def delete_<%= schema.singular %>(%<%= inspect schema.alias %>{} = <%= schema.singular %>) do$/;"	f
+delete_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/schema_access.ex	/^  def delete_<%= schema.singular %>(%<%= inspect schema.alias %>{} = <%= schema.singular %>) do$/;"	f
+delete_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "delete_<%= schema.singular %>\/1 deletes the <%= schema.singular %>" do$/;"	t
+delete_session_token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def delete_session_token(token) do$/;"	f
+deletes	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_test.exs	/^    test "deletes <%= schema.singular %> in listing", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+deletes all tokens for the given	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "deletes all tokens for the given <%= schema.singular %>", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+deletes chosen	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "deletes chosen <%= schema.singular %>", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+deletes chosen	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller_test.exs	/^    test "deletes chosen <%= schema.singular %>", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+deletes the token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "deletes the token" do$/;"	t
+deliver	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/notifier.ex	/^  defp deliver(recipient, subject, body) do$/;"	f
+deliver_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def deliver_<%= schema.singular %>_confirmation_instructions(%<%= inspect schema.alias %>{} = <%= schema.singular %>, confirmation_url_fun)$/;"	f
+deliver_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def deliver_<%= schema.singular %>_reset_password_instructions(%<%= inspect schema.alias %>{} = <%= schema.singular %>, reset_password_url_fun)$/;"	f
+deliver_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.notifier/notifier.ex	/^  def deliver_<%= message %>(%{name: name, email: email}) do$/;"	f
+deliver_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.notifier/notifier_test.exs	/^  test "deliver_<%= message %>\/1" do$/;"	t
+deliver_confirmation_instructions	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/notifier.ex	/^  def deliver_confirmation_instructions(<%= schema.singular %>, url) do$/;"	f
+deliver_reset_password_instructions	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/notifier.ex	/^  def deliver_reset_password_instructions(<%= schema.singular %>, url) do$/;"	f
+deliver_update_email_instructions	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def deliver_update_email_instructions(%<%= inspect schema.alias %>{} = <%= schema.singular %>, current_email, update_email_url_fun)$/;"	f
+deliver_update_email_instructions	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/notifier.ex	/^  def deliver_update_email_instructions(<%= schema.singular %>, url) do$/;"	f
+deps	mix.exs	/^  defp deps do$/;"	f
+detectDuplicateIds	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function detectDuplicateIds() {$/;"	f
+detectDuplicateIds	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function detectDuplicateIds() {$/;"	f
+detectDuplicateIds	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function detectDuplicateIds() {$/;"	f
+detectDuplicateIds	priv/static/assets/app.js	/^  function detectDuplicateIds() {$/;"	f
+displays	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_test.exs	/^    test "displays <%= schema.singular %>", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+doc	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var doc = typeof document === "undefined" ? void 0 : document;$/;"	v
+doc	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var doc = typeof document === "undefined" ? void 0 : document;$/;"	v
+doc	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var doc = typeof document === "undefined" ? void 0 : document;$/;"	v
+doc	priv/static/assets/app.js	/^  var doc = typeof document === "undefined" ? void 0 : document;$/;"	v
+does not authenticate if data is missing	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "does not authenticate if data is missing", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not confirm email if token expired	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not confirm email if token expired", %{<%= schema.singular %>: <%= schema.singular %>, token: token} do$/;"	t
+does not confirm email with invalid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller_test.exs	/^    test "does not confirm email with invalid token", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not confirm with invalid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not confirm with invalid token", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not include password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not include password" do$/;"	t
+does not redirect if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "does not redirect if <%= schema.singular %> is authenticated", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not redirect if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "does not redirect if <%= schema.singular %> is not authenticated", %{conn: conn} do$/;"	t
+does not render reset password with invalid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "does not render reset password with invalid token", %{conn: conn} do$/;"	t
+does not reset password on invalid data	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "does not reset password on invalid data", %{conn: conn, token: token} do$/;"	t
+does not reset password with invalid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "does not reset password with invalid token", %{conn: conn} do$/;"	t
+does not return	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not return <%= schema.singular %> for expired token", %{token: token} do$/;"	t
+does not return	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not return <%= schema.singular %> for invalid token" do$/;"	t
+does not return the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not return the <%= schema.singular %> if the email does not exist" do$/;"	t
+does not return the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not return the <%= schema.singular %> if the password is not valid" do$/;"	t
+does not return the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not return the <%= schema.singular %> if token expired", %{<%= schema.singular %>: <%= schema.singular %>, token: token} do$/;"	t
+does not return the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not return the <%= schema.singular %> with invalid token", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not send confirmation token if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller_test.exs	/^    test "does not send confirmation token if <%= schema.human_singular %> is confirmed", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not send confirmation token if email is invalid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller_test.exs	/^    test "does not send confirmation token if email is invalid", %{conn: conn} do$/;"	t
+does not send reset password token if email is invalid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "does not send reset password token if email is invalid", %{conn: conn} do$/;"	t
+does not update email if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not update email if <%= schema.singular %> email changed", %{<%= schema.singular %>: <%= schema.singular %>, token: token} do$/;"	t
+does not update email if token expired	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not update email if token expired", %{<%= schema.singular %>: <%= schema.singular %>, token: token} do$/;"	t
+does not update email on invalid data	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "does not update email on invalid data", %{conn: conn} do$/;"	t
+does not update email with invalid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "does not update email with invalid token", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not update email with invalid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "does not update email with invalid token", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+does not update password on invalid data	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "does not update password on invalid data", %{conn: conn} do$/;"	t
+dom_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var dom_default = DOM;$/;"	v
+dom_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var dom_default = DOM;$/;"	v
+dom_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var dom_default = DOM;$/;"	v
+dom_default	priv/static/assets/app.js	/^  var dom_default = DOM;$/;"	v
+edit	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller.ex	/^  def edit(conn, %{"token" => token}) do$/;"	f
+edit	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller.ex	/^  def edit(conn, _params) do$/;"	f
+edit	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller.ex	/^  def edit(conn, _params) do$/;"	f
+edit	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller.ex	/^  def edit(conn, %{"id" => id}) do$/;"	f
+edit	lib/rumbl_web/controllers/videos_controller.ex	/^  def edit(conn, %{"id" => id}, current_user) do$/;"	f
+elixirc_paths	mix.exs	/^  defp elixirc_paths(:test), do: ["lib", "test\/support"]$/;"	f
+elixirc_paths	mix.exs	/^  defp elixirc_paths(_), do: ["lib"]$/;"	f
+email_changeset	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  def email_changeset(<%= schema.singular %>, attrs) do$/;"	f
+emits error message with invalid credentials	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "emits error message with invalid credentials", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+end	.elixir_ls/build/test/lib/cowlib/include/cow_inline.hrl	/^end).$/;"	f
+ensure_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  defp ensure_<%= schema.singular %>_token(conn) do$/;"	f
+erases session and cookies	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "erases session and cookies", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+error	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  error: "phx_error",$/;"	p	class:CHANNEL_EVENTS
+error	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  error: "phx_error",$/;"	p	class:CHANNEL_EVENTS
+error	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    error: "phx_error",$/;"	p	class:CHANNEL_EVENTS
+error	priv/static/assets/app.js	/^    error: "phx_error",$/;"	p	class:CHANNEL_EVENTS
+error_tag	lib/rumbl_web/views/error_helpers.ex	/^  def error_tag(form, field) do$/;"	f
+errored	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  errored: "errored",$/;"	p	class:CHANNEL_STATES
+errored	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  errored: "errored",$/;"	p	class:CHANNEL_STATES
+errored	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    errored: "errored",$/;"	p	class:CHANNEL_STATES
+errored	priv/static/assets/app.js	/^    errored: "errored",$/;"	p	class:CHANNEL_STATES
+event	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^      event: phxEvent,$/;"	p	class:let
+event	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^      event: phxEvent,$/;"	p	class:let
+event	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        event: phxEvent,$/;"	p	class:let
+event	priv/static/assets/app.js	/^        event: phxEvent,$/;"	p	class:let
+eventConstructor	.elixir_ls/build/test/lib/phoenix_html/priv/static/phoenix_html.js	/^  function eventConstructor() {$/;"	f
+eventConstructor	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    function eventConstructor() {$/;"	f	function:function
+eventConstructor	priv/static/assets/app.js	/^    function eventConstructor() {$/;"	f	function:function
+extract_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_fixtures_functions.ex	/^  def extract_<%= schema.singular %>_token(fun) do$/;"	f
+fetch	lib/rumbl_web/channels/presence.ex	/^  def fetch(_topic, entries) do$/;"	f
+fetch_current_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  def fetch_current_<%= schema.singular %>(conn, _opts) do$/;"	f
+first_name	lib/rumbl_web/views/user_view.ex	/^  def first_name(%Accounts.User{name: name}) do$/;"	f
+generate_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def generate_<%= schema.singular %>_session_token(<%= schema.singular %>) do$/;"	f
+generates a token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "generates a token", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+getNodeKey	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var getNodeKey = options.getNodeKey || defaultGetNodeKey;$/;"	v
+getNodeKey	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var getNodeKey = options.getNodeKey || defaultGetNodeKey;$/;"	v
+getNodeKey	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var getNodeKey = options.getNodeKey || defaultGetNodeKey;$/;"	v
+getNodeKey	priv/static/assets/app.js	/^      var getNodeKey = options.getNodeKey || defaultGetNodeKey;$/;"	v
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def get_<%= schema.singular %>!(id), do: Repo.get!(<%= inspect schema.alias %>, id)$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def get_<%= schema.singular %>_by_email(email) when is_binary(email) do$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def get_<%= schema.singular %>_by_email_and_password(email, password)$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def get_<%= schema.singular %>_by_reset_password_token(token) do$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def get_<%= schema.singular %>_by_session_token(token) do$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller.ex	/^  defp get_<%= schema.singular %>_by_reset_password_token(conn, _opts) do$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/access_no_schema.ex	/^  def get_<%= schema.singular %>!(id), do: raise "TODO"$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/schema_access.ex	/^  def get_<%= schema.singular %>!(id), do: Repo.get!(<%= inspect schema.alias %>, id)$/;"	f
+get_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "get_<%= schema.singular %>!\/1 returns the <%= schema.singular %> with given id" do$/;"	t
+global	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var global = globalSelf || phxWindow || void 0;$/;"	v
+global	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var global = globalSelf || phxWindow || void 0;$/;"	v
+global	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var global = globalSelf || phxWindow || void 0;$/;"	v
+global	priv/static/assets/app.js	/^  var global = globalSelf || phxWindow || void 0;$/;"	v
+globalSelf	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var globalSelf = typeof self !== "undefined" ? self : null;$/;"	v
+globalSelf	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var globalSelf = typeof self !== "undefined" ? self : null;$/;"	v
+globalSelf	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var globalSelf = typeof self !== "undefined" ? self : null;$/;"	v
+globalSelf	priv/static/assets/app.js	/^  var globalSelf = typeof self !== "undefined" ? self : null;$/;"	v
+handleClick	.elixir_ls/build/test/lib/phoenix_html/priv/static/phoenix_html.js	/^  function handleClick(element, targetModifierKey) {$/;"	f
+handleClick	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    function handleClick(element, targetModifierKey) {$/;"	f
+handleClick	priv/static/assets/app.js	/^    function handleClick(element, targetModifierKey) {$/;"	f
+handleNodeAdded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function handleNodeAdded(el) {$/;"	f
+handleNodeAdded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function handleNodeAdded(el) {$/;"	f
+handleNodeAdded	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function handleNodeAdded(el) {$/;"	f
+handleNodeAdded	priv/static/assets/app.js	/^      function handleNodeAdded(el) {$/;"	f
+handle_event	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/form_component.ex	/^  def handle_event("save", %{"<%= schema.singular %>" => <%= schema.singular %>_params}, socket) do$/;"	f
+handle_event	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/form_component.ex	/^  def handle_event("validate", %{"<%= schema.singular %>" => <%= schema.singular %>_params}, socket) do$/;"	f
+handle_event	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/index.ex	/^  def handle_event("delete", %{"id" => id}, socket) do$/;"	f
+handle_in	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.channel/channel.ex	/^  def handle_in("ping", payload, socket) do$/;"	f
+handle_in	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.channel/channel.ex	/^  def handle_in("shout", payload, socket) do$/;"	f
+handle_in	lib/rumbl_web/channels/user_socket_channel.ex	/^  def handle_in("ping", payload, socket) do$/;"	f
+handle_in	lib/rumbl_web/channels/user_socket_channel.ex	/^  def handle_in("shout", payload, socket) do$/;"	f
+handle_in	lib/rumbl_web/channels/videos_channel.ex	/^  def handle_in("new_annotation", payload, user, socket) do$/;"	f
+handle_in	lib/rumbl_web/channels/videos_channel.ex	/^  def handle_in(event, payload, socket) do$/;"	f
+handle_info	lib/rumbl_web/channels/videos_channel.ex	/^  def handle_info(:after_join, socket) do$/;"	f
+handle_params	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/index.ex	/^  def handle_params(params, _url, socket) do$/;"	f
+handle_params	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/show.ex	/^  def handle_params(%{"id" => id}, _, socket) do$/;"	f
+hide_modal	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_helpers.ex	/^  defp hide_modal(js \\\\ %JS{}) do$/;"	f
+hooks_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var hooks_default = Hooks;$/;"	v
+hooks_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var hooks_default = Hooks;$/;"	v
+hooks_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var hooks_default = Hooks;$/;"	v
+hooks_default	priv/static/assets/app.js	/^  var hooks_default = Hooks;$/;"	v
+id	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.socket/socket.ex	/^  def id(_socket), do: nil$/;"	f
+id	lib/rumbl_web/channels/user_socket.ex	/^  def id(_socket), do: nil$/;"	f
+import_topbar	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var import_topbar = __toModule(require_topbar());$/;"	v
+import_topbar	priv/static/assets/app.js	/^  var import_topbar = __toModule(require_topbar());$/;"	v
+index	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller.ex	/^  def index(conn, _params) do$/;"	f
+index	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller.ex	/^  def index(conn, _params) do$/;"	f
+index	lib/rumbl_web/controllers/page_controller.ex	/^  def index(conn, _params) do$/;"	f
+index	lib/rumbl_web/controllers/user_controller.ex	/^  def index(conn, _params) do$/;"	f
+index	lib/rumbl_web/controllers/videos_controller.ex	/^  def index(conn, _params, current_user ) do$/;"	f
+indexTree	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function indexTree(node) {$/;"	f
+indexTree	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function indexTree(node) {$/;"	f
+indexTree	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function indexTree(node) {$/;"	f
+indexTree	priv/static/assets/app.js	/^      function indexTree(node) {$/;"	f
+init	lib/rumbl_web/controllers/auth.ex	/^  def init(opts), do: opts$/;"	f
+init	lib/rumbl_web/telemetry.ex	/^  def init(_arg) do$/;"	f
+insert_user	test/support/test_helper.ex	/^  def insert_user(attrs \\\\%{}) do$/;"	f
+insert_video	test/support/test_helper.ex	/^  def insert_video(user, attrs \\\\ %{}) do$/;"	f
+join	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  join: "phx_join",$/;"	p	class:CHANNEL_EVENTS
+join	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  join: "phx_join",$/;"	p	class:CHANNEL_EVENTS
+join	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.channel/channel.ex	/^  def join("<%= singular %>:lobby", payload, socket) do$/;"	f
+join	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    join: "phx_join",$/;"	p	class:CHANNEL_EVENTS
+join	lib/rumbl_web/channels/user_socket_channel.ex	/^  def join("user_socket:lobby", payload, socket) do$/;"	f
+join	lib/rumbl_web/channels/videos_channel.ex	/^  def join("videos:" <> video_id , payload, socket) do$/;"	f
+join	priv/static/assets/app.js	/^    join: "phx_join",$/;"	p	class:CHANNEL_EVENTS
+join replies with video annotations	test/rumbl_web/channels/videos_channel_test.exs	/^  test "join replies with video annotations", %{socket: socket, user: user, video: video} do$/;"	t
+joinCallback	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    this.joinCallback = function(onDone) {$/;"	m	class:this
+joinCallback	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    this.joinCallback = function(onDone) {$/;"	m	class:this
+joinCallback	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this.joinCallback = function(onDone) {$/;"	m	class:this
+joinCallback	priv/static/assets/app.js	/^      this.joinCallback = function(onDone) {$/;"	m	class:this
+joined	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  joined: "joined",$/;"	p	class:CHANNEL_STATES
+joined	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  joined: "joined",$/;"	p	class:CHANNEL_STATES
+joined	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    joined: "joined",$/;"	p	class:CHANNEL_STATES
+joined	priv/static/assets/app.js	/^    joined: "joined",$/;"	p	class:CHANNEL_STATES
+joining	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  joining: "joining",$/;"	p	class:CHANNEL_STATES
+joining	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  joining: "joining",$/;"	p	class:CHANNEL_STATES
+joining	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    joining: "joining",$/;"	p	class:CHANNEL_STATES
+joining	priv/static/assets/app.js	/^    joining: "joining",$/;"	p	class:CHANNEL_STATES
+js_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var js_default = JS;$/;"	v
+js_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var js_default = JS;$/;"	v
+js_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var js_default = JS;$/;"	v
+js_default	priv/static/assets/app.js	/^  var js_default = JS;$/;"	v
+keyedRemovalList	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var keyedRemovalList = [];$/;"	v
+keyedRemovalList	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var keyedRemovalList = [];$/;"	v
+keyedRemovalList	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var keyedRemovalList = [];$/;"	v
+keyedRemovalList	priv/static/assets/app.js	/^      var keyedRemovalList = [];$/;"	v
+leave	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  leave: "phx_leave"$/;"	p	class:CHANNEL_EVENTS
+leave	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  leave: "phx_leave"$/;"	p	class:CHANNEL_EVENTS
+leave	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    leave: "phx_leave"$/;"	p	class:CHANNEL_EVENTS
+leave	priv/static/assets/app.js	/^    leave: "phx_leave"$/;"	p	class:CHANNEL_EVENTS
+leaving	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  leaving: "leaving"$/;"	p	class:CHANNEL_STATES
+leaving	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  leaving: "leaving"$/;"	p	class:CHANNEL_STATES
+leaving	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    leaving: "leaving"$/;"	p	class:CHANNEL_STATES
+leaving	priv/static/assets/app.js	/^    leaving: "leaving"$/;"	p	class:CHANNEL_STATES
+let	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    let closure2 = function() {$/;"	f
+let	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    let closure2 = function() {$/;"	f
+let	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    let onLoadingDone = function() {$/;"	f
+let	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    let onLoadingDone = function() {$/;"	f
+let	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      let closure22 = function() {$/;"	f
+let	priv/static/assets/app.js	/^      let closure22 = function() {$/;"	f
+list all user	test/rumbl_web/controllers/videos_controller_test.exs	/^    test "list all user's videos on index", %{conn: conn, user: user} do$/;"	t
+list_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/access_no_schema.ex	/^  def list_<%= schema.plural %> do$/;"	f
+list_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/schema_access.ex	/^  def list_<%= schema.plural %> do$/;"	f
+list_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "list_<%= schema.plural %>\/0 returns all <%= schema.plural %>" do$/;"	t
+list_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/index.ex	/^  defp list_<%= schema.plural %> do$/;"	f
+lists all	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "lists all <%= schema.plural %>", %{conn: conn} do$/;"	t
+lists all	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller_test.exs	/^    test "lists all <%= schema.plural %>", %{conn: conn} do$/;"	t
+lists all	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_test.exs	/^    test "lists all <%= schema.plural %>", <%= if schema.string_attr do %>%{conn: conn, <%= schema.singular %>: <%= schema.singular %>}<% else %>%{conn: conn}<% end %> do$/;"	t
+liveUploaderFileRef	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var liveUploaderFileRef = 0;$/;"	v
+liveUploaderFileRef	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var liveUploaderFileRef = 0;$/;"	v
+liveUploaderFileRef	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var liveUploaderFileRef = 0;$/;"	v
+liveUploaderFileRef	priv/static/assets/app.js	/^  var liveUploaderFileRef = 0;$/;"	v
+live_component	lib/rumbl_web.ex	/^  def live_component do$/;"	f
+live_view	lib/rumbl_web.ex	/^  def live_view do$/;"	f
+load_app	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.release/release.ex	/^  defp load_app do$/;"	f
+load_categories	lib/rumbl_web/controllers/videos_controller.ex	/^  defp load_categories(conn, _) do$/;"	f
+log_in_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  def log_in_<%= schema.singular %>(conn, <%= schema.singular %>, params \\\\ %{}) do$/;"	f
+log_in_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/conn_case.exs	/^  def log_in_<%= schema.singular %>(conn, <%= schema.singular %>) do$/;"	f
+log_out_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  def log_out_<%= schema.singular %>(conn) do$/;"	f
+login	lib/rumbl_web/controllers/auth.ex	/^  def login(conn, user) do$/;"	f
+login	test/support/test_helper.ex	/^  def login(%{conn: conn, login_as: username}) do $/;"	f
+login	test/support/test_helper.ex	/^  def login(%{conn: conn}), do: {conn, :logged_out}$/;"	f
+logout	lib/rumbl_web/controllers/auth.ex	/^  def logout(conn) do$/;"	f
+logs the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "logs the <%= schema.singular %> in with remember me", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+logs the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "logs the <%= schema.singular %> in with return to", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+logs the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "logs the <%= schema.singular %> in", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+logs the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "logs the <%= schema.singular %> out", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+longpoll	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  longpoll: "longpoll",$/;"	p	class:TRANSPORTS
+longpoll	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  longpoll: "longpoll",$/;"	p	class:TRANSPORTS
+longpoll	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    longpoll: "longpoll",$/;"	p	class:TRANSPORTS
+longpoll	priv/static/assets/app.js	/^    longpoll: "longpoll",$/;"	p	class:TRANSPORTS
+maybe_hash_password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  defp maybe_hash_password(changeset, opts) do$/;"	f
+maybe_store_return_to	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  defp maybe_store_return_to(%{method: "GET"} = conn) do$/;"	f
+maybe_store_return_to	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  defp maybe_store_return_to(conn), do: conn$/;"	f
+maybe_write_remember_me_cookie	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  defp maybe_write_remember_me_cookie(conn, _token, _params) do$/;"	f
+maybe_write_remember_me_cookie	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  defp maybe_write_remember_me_cookie(conn, token, %{"remember_me" => "true"}) do$/;"	f
+metrics	lib/rumbl_web/telemetry.ex	/^  def metrics do$/;"	f
+migrate	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.release/release.ex	/^  def migrate do$/;"	f
+modal	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_helpers.ex	/^  def modal(assigns) do$/;"	f
+morphAttrs	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function morphAttrs(fromNode, toNode) {$/;"	f
+morphAttrs	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function morphAttrs(fromNode, toNode) {$/;"	f
+morphAttrs	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function morphAttrs(fromNode, toNode) {$/;"	f
+morphAttrs	priv/static/assets/app.js	/^  function morphAttrs(fromNode, toNode) {$/;"	f
+morphChildren	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function morphChildren(fromEl, toEl) {$/;"	f
+morphChildren	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function morphChildren(fromEl, toEl) {$/;"	f
+morphChildren	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function morphChildren(fromEl, toEl) {$/;"	f
+morphChildren	priv/static/assets/app.js	/^      function morphChildren(fromEl, toEl) {$/;"	f
+morphEl	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function morphEl(fromEl, toEl, childrenOnly2) {$/;"	f
+morphEl	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function morphEl(fromEl, toEl, childrenOnly2) {$/;"	f
+morphEl	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function morphEl(fromEl, toEl, childrenOnly2) {$/;"	f
+morphEl	priv/static/assets/app.js	/^      function morphEl(fromEl, toEl, childrenOnly2) {$/;"	f
+morphdomFactory	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function morphdomFactory(morphAttrs2) {$/;"	f
+morphdomFactory	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function morphdomFactory(morphAttrs2) {$/;"	f
+morphdomFactory	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function morphdomFactory(morphAttrs2) {$/;"	f
+morphdomFactory	priv/static/assets/app.js	/^  function morphdomFactory(morphAttrs2) {$/;"	f
+morphdom_esm_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var morphdom_esm_default = morphdom;$/;"	v
+morphdom_esm_default	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var morphdom_esm_default = morphdom;$/;"	v
+morphdom_esm_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var morphdom_esm_default = morphdom;$/;"	v
+morphdom_esm_default	priv/static/assets/app.js	/^  var morphdom_esm_default = morphdom;$/;"	v
+morphedNode	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var morphedNode = fromNode;$/;"	v
+morphedNode	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var morphedNode = fromNode;$/;"	v
+morphedNode	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var morphedNode = fromNode;$/;"	v
+morphedNode	priv/static/assets/app.js	/^      var morphedNode = fromNode;$/;"	v
+morphedNodeType	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var morphedNodeType = morphedNode.nodeType;$/;"	v
+morphedNodeType	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var morphedNodeType = morphedNode.nodeType;$/;"	v
+morphedNodeType	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var morphedNodeType = morphedNode.nodeType;$/;"	v
+morphedNodeType	priv/static/assets/app.js	/^      var morphedNodeType = morphedNode.nodeType;$/;"	v
+mount	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/index.ex	/^  def mount(_params, _session, socket) do$/;"	f
+mount	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/show.ex	/^  def mount(_params, _session, socket) do$/;"	f
+moveChildren	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function moveChildren(fromEl, toEl) {$/;"	f
+moveChildren	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function moveChildren(fromEl, toEl) {$/;"	f
+moveChildren	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function moveChildren(fromEl, toEl) {$/;"	f
+moveChildren	priv/static/assets/app.js	/^  function moveChildren(fromEl, toEl) {$/;"	f
+new	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller.ex	/^  def new(conn, _params) do$/;"	f
+new	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/registration_controller.ex	/^  def new(conn, _params) do$/;"	f
+new	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller.ex	/^  def new(conn, _params) do$/;"	f
+new	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller.ex	/^  def new(conn, _params) do$/;"	f
+new	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller.ex	/^  def new(conn, _params) do$/;"	f
+new	lib/rumbl_web/controllers/session_controller.ex	/^  def new(conn, _opts) do$/;"	f
+new	lib/rumbl_web/controllers/user_controller.ex	/^  def new(conn, _params) do $/;"	f
+new	lib/rumbl_web/controllers/videos_controller.ex	/^  def new(conn, _params, _current_user) do$/;"	f
+noop	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function noop() {$/;"	f
+noop	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function noop() {$/;"	f
+noop	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function noop() {$/;"	f
+noop	priv/static/assets/app.js	/^  function noop() {$/;"	f
+onBeforeElChildrenUpdated	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var onBeforeElChildrenUpdated = options.onBeforeElChildrenUpdated || noop;$/;"	v
+onBeforeElChildrenUpdated	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var onBeforeElChildrenUpdated = options.onBeforeElChildrenUpdated || noop;$/;"	v
+onBeforeElChildrenUpdated	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var onBeforeElChildrenUpdated = options.onBeforeElChildrenUpdated || noop;$/;"	v
+onBeforeElChildrenUpdated	priv/static/assets/app.js	/^      var onBeforeElChildrenUpdated = options.onBeforeElChildrenUpdated || noop;$/;"	v
+onBeforeElUpdated	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var onBeforeElUpdated = options.onBeforeElUpdated || noop;$/;"	v
+onBeforeElUpdated	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var onBeforeElUpdated = options.onBeforeElUpdated || noop;$/;"	v
+onBeforeElUpdated	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var onBeforeElUpdated = options.onBeforeElUpdated || noop;$/;"	v
+onBeforeElUpdated	priv/static/assets/app.js	/^      var onBeforeElUpdated = options.onBeforeElUpdated || noop;$/;"	v
+onBeforeNodeAdded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var onBeforeNodeAdded = options.onBeforeNodeAdded || noop;$/;"	v
+onBeforeNodeAdded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var onBeforeNodeAdded = options.onBeforeNodeAdded || noop;$/;"	v
+onBeforeNodeAdded	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var onBeforeNodeAdded = options.onBeforeNodeAdded || noop;$/;"	v
+onBeforeNodeAdded	priv/static/assets/app.js	/^      var onBeforeNodeAdded = options.onBeforeNodeAdded || noop;$/;"	v
+onBeforeNodeDiscarded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var onBeforeNodeDiscarded = options.onBeforeNodeDiscarded || noop;$/;"	v
+onBeforeNodeDiscarded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var onBeforeNodeDiscarded = options.onBeforeNodeDiscarded || noop;$/;"	v
+onBeforeNodeDiscarded	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var onBeforeNodeDiscarded = options.onBeforeNodeDiscarded || noop;$/;"	v
+onBeforeNodeDiscarded	priv/static/assets/app.js	/^      var onBeforeNodeDiscarded = options.onBeforeNodeDiscarded || noop;$/;"	v
+onElUpdated	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var onElUpdated = options.onElUpdated || noop;$/;"	v
+onElUpdated	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var onElUpdated = options.onElUpdated || noop;$/;"	v
+onElUpdated	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var onElUpdated = options.onElUpdated || noop;$/;"	v
+onElUpdated	priv/static/assets/app.js	/^      var onElUpdated = options.onElUpdated || noop;$/;"	v
+onJoin	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^      onJoin = function() {$/;"	f
+onJoin	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^      onJoin: function() {$/;"	m	class:this.caller
+onJoin	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^      onJoin = function() {$/;"	f
+onJoin	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^      onJoin: function() {$/;"	m	class:this.caller
+onJoin	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        onJoin = function() {$/;"	f
+onJoin	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        onJoin: function() {$/;"	m	class:this.caller
+onJoin	priv/static/assets/app.js	/^        onJoin = function() {$/;"	f
+onJoin	priv/static/assets/app.js	/^        onJoin: function() {$/;"	m	class:this.caller
+onLeave	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^      onLeave = function() {$/;"	f
+onLeave	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^      onLeave: function() {$/;"	m	class:this.caller
+onLeave	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^      onLeave = function() {$/;"	f
+onLeave	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^      onLeave: function() {$/;"	m	class:this.caller
+onLeave	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        onLeave = function() {$/;"	f
+onLeave	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        onLeave: function() {$/;"	m	class:this.caller
+onLeave	priv/static/assets/app.js	/^        onLeave = function() {$/;"	f
+onLeave	priv/static/assets/app.js	/^        onLeave: function() {$/;"	m	class:this.caller
+onNodeAdded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var onNodeAdded = options.onNodeAdded || noop;$/;"	v
+onNodeAdded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var onNodeAdded = options.onNodeAdded || noop;$/;"	v
+onNodeAdded	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var onNodeAdded = options.onNodeAdded || noop;$/;"	v
+onNodeAdded	priv/static/assets/app.js	/^      var onNodeAdded = options.onNodeAdded || noop;$/;"	v
+onNodeDiscarded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var onNodeDiscarded = options.onNodeDiscarded || noop;$/;"	v
+onNodeDiscarded	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var onNodeDiscarded = options.onNodeDiscarded || noop;$/;"	v
+onNodeDiscarded	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var onNodeDiscarded = options.onNodeDiscarded || noop;$/;"	v
+onNodeDiscarded	priv/static/assets/app.js	/^      var onNodeDiscarded = options.onNodeDiscarded || noop;$/;"	v
+onSync	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^      onSync: function() {$/;"	m	class:this.caller
+onSync	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^      onSync: function() {$/;"	m	class:this.caller
+onSync	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        onSync: function() {$/;"	m	class:this.caller
+onSync	priv/static/assets/app.js	/^        onSync: function() {$/;"	m	class:this.caller
+onclose	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    this.onclose = function() {$/;"	m	class:this
+onclose	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    this.onclose = function() {$/;"	m	class:this
+onclose	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this.onclose = function() {$/;"	m	class:this
+onclose	priv/static/assets/app.js	/^      this.onclose = function() {$/;"	m	class:this
+onerror	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    this.onerror = function() {$/;"	m	class:this
+onerror	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    this.onerror = function() {$/;"	m	class:this
+onerror	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this.onerror = function() {$/;"	m	class:this
+onerror	priv/static/assets/app.js	/^      this.onerror = function() {$/;"	m	class:this
+onmessage	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    this.onmessage = function() {$/;"	m	class:this
+onmessage	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    this.onmessage = function() {$/;"	m	class:this
+onmessage	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this.onmessage = function() {$/;"	m	class:this
+onmessage	priv/static/assets/app.js	/^      this.onmessage = function() {$/;"	m	class:this
+onopen	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    this.onopen = function() {$/;"	m	class:this
+onopen	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    this.onopen = function() {$/;"	m	class:this
+onopen	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this.onopen = function() {$/;"	m	class:this
+onopen	priv/static/assets/app.js	/^      this.onopen = function() {$/;"	m	class:this
+open	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    this.stateChangeCallbacks = { open: [], close: [], error: [], message: [] };$/;"	p	class:constructor.stateChangeCallbacks
+open	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+open	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    this.stateChangeCallbacks = { open: [], close: [], error: [], message: [] };$/;"	p	class:constructor.stateChangeCallbacks
+open	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+open	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this.stateChangeCallbacks = { open: [], close: [], error: [], message: [] };$/;"	p	class:constructor.stateChangeCallbacks
+open	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+open	priv/static/assets/app.js	/^      this.stateChangeCallbacks = { open: [], close: [], error: [], message: [] };$/;"	p	class:constructor.stateChangeCallbacks
+open	priv/static/assets/app.js	/^  var SOCKET_STATES = { connecting: 0, open: 1, closing: 2, closed: 3 };$/;"	p	class:SOCKET_STATES
+page_loading	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    let pushOpts = { loading, value, target, page_loading: !!page_loading };$/;"	p	class:let
+page_loading	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    let pushOpts = { loading, value, target, page_loading: !!page_loading };$/;"	p	class:let
+page_loading	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      let pushOpts = { loading, value, target, page_loading: !!page_loading };$/;"	p	class:let
+page_loading	priv/static/assets/app.js	/^      let pushOpts = { loading, value, target, page_loading: !!page_loading };$/;"	p	class:let
+page_title	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/show.ex	/^  defp page_title(:edit), do: "Edit <%= schema.human_singular %>"$/;"	f
+page_title	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/show.ex	/^  defp page_title(:show), do: "Show <%= schema.human_singular %>"$/;"	f
+password_changeset	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  def password_changeset(<%= schema.singular %>, attrs, opts \\\\ []) do$/;"	f
+periodic_measurements	lib/rumbl_web/telemetry.ex	/^  defp periodic_measurements do$/;"	f
+phxWindow	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^var phxWindow = typeof window !== "undefined" ? window : null;$/;"	v
+phxWindow	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^var phxWindow = typeof window !== "undefined" ? window : null;$/;"	v
+phxWindow	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var phxWindow = typeof window !== "undefined" ? window : null;$/;"	v
+phxWindow	priv/static/assets/app.js	/^  var phxWindow = typeof window !== "undefined" ? window : null;$/;"	v
+ping replies with status ok	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.channel/channel_test.exs	/^  test "ping replies with status ok", %{socket: socket} do$/;"	t
+ping replies with status ok	test/rumbl_web/channels/user_socket_channel_test.exs	/^  test "ping replies with status ok", %{socket: socket} do$/;"	t
+player	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    player: null,$/;"	p	class:Player
+player	assets/js/player.js	/^  player: null,$/;"	p	class:let
+player	priv/static/assets/app.js	/^    player: null,$/;"	p	class:Player
+player_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var player_default = Player;$/;"	v
+player_default	priv/static/assets/app.js	/^  var player_default = Player;$/;"	v
+player_id	lib/rumbl_web/views/watch_view.ex	/^  def player_id(video) do$/;"	f
+project	mix.exs	/^  def project do$/;"	f
+put_current_user	lib/rumbl_web/controllers/auth.ex	/^  defp put_current_user(conn, user) do$/;"	f
+raises if id is invalid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "raises if id is invalid" do$/;"	t
+range	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var range;$/;"	v
+range	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var range;$/;"	v
+range	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var range;$/;"	v
+range	priv/static/assets/app.js	/^  var range;$/;"	v
+receives	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^      receives: [],$/;"	p	class:let
+receives	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^      receives: [],$/;"	p	class:let
+receives	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.min.js	/^      `);this.socket=new t(e,i),this.bindingPrefix=i.bindingPrefix||Lt,this.opts=i,this.params=Xe(i.params||{}),this.viewLogger=i.viewLogger,this.metadataCallbacks=i.metadata||{},this.defaults=Object.assign(le(Ot),i.defaults||{}),this.activeElement=null,this.prevActive=null,this.silenced=!1,this.main=null,this.linkRef=1,this.clickRef=1,this.roots={},this.href=window.location.href,this.pendingLink=null,this.currentLocation=le(window.location),this.hooks=i.hooks||{},this.uploaders=i.uploaders||{},this.loaderTimeout=i.loaderTimeout||It,this.maxReloads=i.maxReloads||vt,this.reloadJitterMin=i.reloadJitterMin||bt,this.reloadJitterMax=i.reloadJitterMax||_t,this.failsafeJitter=i.failsafeJitter||Et,this.localStorage=i.localStorage||window.localStorage,this.sessionStorage=i.sessionStorage||window.sessionStorage,this.boundTopLevelEvents=!1,this.domCallbacks=Object.assign({onNodeAdded:Xe(),onBeforeElUpdated:Xe()},i.dom||{}),this.transitions=new Kt,window.addEventListener("pagehide",r=>{this.unloaded=!0}),this.socket.onOpen(()=>{this.isUnloaded()&&window.location.reload()})}isProfileEnabled(){return this.sessionStorage.getItem(Ue)==="true"}isDebugEnabled(){return this.sessionStorage.getItem(Ne)==="true"}enableDebug(){this.sessionStorage.setItem(Ne,"true")}enableProfiling(){this.sessionStorage.setItem(Ue,"true")}disableDebug(){this.sessionStorage.removeItem(Ne)}disableProfiling(){this.sessionStorage.removeItem(Ue)}enableLatencySim(e){this.enableDebug(),console.log("latency simulator enabled for the duration of this browser session. Call disableLatencySim() to disable"),this.sessionStorage.setItem(Fe,e)}disableLatencySim(){this.sessionStorage.removeItem(Fe)}getLatencySim(){let e=this.sessionStorage.getItem(Fe);return e?parseInt(e):null}getSocket(){return this.socket}connect(){let e=()=>{this.joinRootViews()&&(this.bindTopLevelEvents(),this.socket.connect())};["complete","loaded","interactive"].indexOf(document.readyState)>=0?e():document.addEventListener("DOMContentLoaded",()=>e())}disconnect(e){this.socket.disconnect(e)}execJS(e,t,i=null){this.owner(e,r=>O.exec(i,t,r,e))}triggerDOM(e,t){this.domCallbacks[e](...t)}time(e,t){if(!this.isProfileEnabled()||!console.time)return t();console.time(e);let i=t();return console.timeEnd(e),i}log(e,t,i){if(this.viewLogger){let[r,n]=i();this.viewLogger(e,t,r,n)}else if(this.isDebugEnabled()){let[r,n]=i();Ut(e,t,r,n)}}requestDOMUpdate(e){this.transitions.after(e)}transition(e,t,i=function(){}){this.transitions.addTransition(e,t,i)}onChannel(e,t,i){e.on(t,r=>{let n=this.getLatencySim();n?(console.log(`simulating ${n}ms of latency from server to client`),setTimeout(()=>i(r),n)):i(r)})}wrapPush(e,t,i){let r=this.getLatencySim(),n=e.joinCount;if(!r)return t.timeout?i().receive("timeout",()=>{e.joinCount===n&&!e.isDestroyed()&&this.reloadWithJitter(e,()=>{this.log(e,"timeout",()=>["received timeout while communicating with server. Falling back to hard refresh for recovery"])})}):i();console.log(`simulating ${r}ms of latency from client to server`);let o={receives:[],receive(a,d){this.receives.push([a,d])}};return setTimeout(()=>{e.isDestroyed()||o.receives.reduce((a,[d,h])=>a.receive(d,h),i())},r),o}reloadWithJitter(e,t){e.destroy(),this.disconnect();let i=this.reloadJitterMin,r=this.reloadJitterMax,n=Math.floor(Math.random()*(r-i+1))+i,o=V.updateLocal(this.localStorage,window.location.pathname,ke,0,a=>a+1);t?t():this.log(e,"join",()=>[`encountered ${o} consecutive reloads`]),o>this.maxReloads&&(this.log(e,"join",()=>[`exceeded ${this.maxReloads} consecutive reloads. Entering failsafe mode`]),n=this.failsafeJitter),setTimeout(()=>{this.hasPendingLink()?window.location=this.pendingLink:window.location.reload()},n)}getHookCallbacks(e){return e&&e.startsWith("Phoenix.")?$t[e.split(".")[1]]:this.hooks[e]}isUnloaded(){return this.unloaded}isConnected(){return this.socket.isConnected()}getBindingPrefix(){return this.bindingPrefix}binding(e){return`${this.getBindingPrefix()}${e}`}channel(e,t){return this.socket.channel(e,t)}joinRootViews(){let e=!1;return l.all(document,`${B}:not([${j}])`,t=>{if(!this.getRootById(t.id)){let i=this.newRootView(t);i.setHref(this.getHref()),i.join(),t.getAttribute(oe)&&(this.main=i)}e=!0}),e}redirect(e,t){this.disconnect(),V.redirect(e,t)}replaceMain(e,t,i=null,r=this.setPendingLink(e)){let n=this.main.el,o=l.cloneNode(n,"");this.main.showLoader(this.loaderTimeout),this.main.destroy(),this.main=this.newRootView(o,t),this.main.setRedirect(e),this.transitionRemoves(),this.main.join((a,d)=>{a===1&&this.commitPendingLink(r)&&this.requestDOMUpdate(()=>{l.findPhxSticky(document).forEach(h=>o.appendChild(h)),n.replaceWith(o),i&&i(),d()})})}transitionRemoves(e){let t=this.binding("remove");e=e||l.all(document,`[${t}]`),e.forEach(i=>{document.body.contains(i)&&this.execJS(i,i.getAttribute(t),"remove")})}isPhxView(e){return e.getAttribute&&e.getAttribute(L)!==null}newRootView(e,t){let i=new ue(e,this,null,t);return this.roots[i.id]=i,i}owner(e,t){let i=D(e.closest(B),r=>this.getViewByEl(r))||this.main;i&&t(i)}withinOwners(e,t){this.owner(e,i=>t(i,e))}getViewByEl(e){let t=e.getAttribute(K);return D(this.getRootById(t),i=>i.getDescendentByEl(e))}getRootById(e){return this.roots[e]}destroyAllViews(){for(let e in this.roots)this.roots[e].destroy(),delete this.roots[e]}destroyViewByEl(e){let t=this.getRootById(e.getAttribute(K));t&&t.id===e.id?(t.destroy(),delete this.roots[t.id]):t&&t.destroyDescendent(e.id)}setActiveElement(e){if(this.activeElement===e)return;this.activeElement=e;let t=()=>{e===this.activeElement&&(this.activeElement=null),e.removeEventListener("mouseup",this),e.removeEventListener("touchend",this)};e.addEventListener("mouseup",t),e.addEventListener("touchend",t)}getActiveElement(){return document.activeElement===document.body?this.activeElement||document.activeElement:document.activeElement||document.body}dropActiveElement(e){this.prevActive&&e.ownsElement(this.prevActive)&&(this.prevActive=null)}restorePreviouslyActiveFocus(){this.prevActive&&this.prevActive!==document.body&&this.prevActive.focus()}blurActiveElement(){this.prevActive=this.getActiveElement(),this.prevActive!==document.body&&this.prevActive.blur()}bindTopLevelEvents(){this.boundTopLevelEvents||(this.boundTopLevelEvents=!0,this.socket.onClose(e=>{e.code===1e3&&this.main&&this.reloadWithJitter(this.main)}),document.body.addEventListener("click",function(){}),window.addEventListener("pageshow",e=>{e.persisted&&(this.getSocket().disconnect(),this.withPageLoading({to:window.location.href,kind:"redirect"}),window.location.reload())},!0),this.bindNav(),this.bindClicks(),this.bindForms(),this.bind({keyup:"keyup",keydown:"keydown"},(e,t,i,r,n,o)=>{let a=r.getAttribute(this.binding(xt)),d=e.key&&e.key.toLowerCase();if(a&&a.toLowerCase()!==d)return;let h=se({key:e.key},this.eventMeta(t,e,r));O.exec(t,n,i,r,["push",{data:h}])}),this.bind({blur:"focusout",focus:"focusin"},(e,t,i,r,n,o)=>{if(!o){let a=se({key:e.key},this.eventMeta(t,e,r));O.exec(t,n,i,r,["push",{data:a}])}}),this.bind({blur:"blur",focus:"focus"},(e,t,i,r,n,o,a)=>{if(a==="window"){let d=this.eventMeta(t,e,r);O.exec(t,o,i,r,["push",{data:d}])}}),window.addEventListener("dragover",e=>e.preventDefault()),window.addEventListener("drop",e=>{e.preventDefault();let t=D(ee(e.target,this.binding(Ge)),n=>n.getAttribute(this.binding(Ge))),i=t&&document.getElementById(t),r=Array.from(e.dataTransfer.files||[]);!i||i.disabled||r.length===0||!(i.files instanceof FileList)||(y.trackFiles(i,r),i.dispatchEvent(new Event("input",{bubbles:!0})))}),this.on(Ie,e=>{let t=e.target;if(!l.isUploadInput(t))return;let i=Array.from(e.detail.files||[]).filter(r=>r instanceof File||r instanceof Blob);y.trackFiles(t,i),t.dispatchEvent(new Event("input",{bubbles:!0}))}))}eventMeta(e,t,i){let r=this.metadataCallbacks[e];return r?r(t,i):{}}setPendingLink(e){return this.linkRef++,this.pendingLink=e,this.linkRef}commitPendingLink(e){return this.linkRef!==e?!1:(this.href=this.pendingLink,this.pendingLink=null,!0)}getHref(){return this.href}hasPendingLink(){return!!this.pendingLink}bind(e,t){for(let i in e){let r=e[i];this.on(r,n=>{let o=this.binding(i),a=this.binding(`window-${i}`),d=n.target.getAttribute&&n.target.getAttribute(o);d?this.debounce(n.target,n,()=>{this.withinOwners(n.target,h=>{t(n,i,h,n.target,d,null)})}):l.all(document,`[${a}]`,h=>{let f=h.getAttribute(a);this.debounce(h,n,()=>{this.withinOwners(h,p=>{t(n,i,p,h,f,"window")})})})})}}bindClicks(){this.bindClick("click","click",!1),this.bindClick("mousedown","capture-click",!0)}bindClick(e,t,i){let r=this.binding(t);window.addEventListener(e,n=>{if(!this.isConnected())return;this.clickRef++;let o=this.clickRef,a=null;i?a=n.target.matches(`[${r}]`)?n.target:n.target.querySelector(`[${r}]`):(a=ee(n.target,r),this.dispatchClickAway(n,o));let d=a&&a.getAttribute(r);!d||(a.getAttribute("href")==="#"&&n.preventDefault(),this.debounce(a,n,()=>{this.withinOwners(a,h=>{O.exec("click",d,h,a,["push",{data:this.eventMeta("click",n,a)}])})}))},i)}dispatchClickAway(e,t){let i=this.binding("click-away"),r=this.binding("click");l.all(document,`[${i}]`,n=>{n.isSameNode(e.target)||n.contains(e.target)||this.withinOwners(e.target,o=>{let a=n.getAttribute(i);if(O.isVisible(n)){let d=e.target.closest(`[${r}]`)||e.target;O.exec("click",a,o,n,["push",{data:this.eventMeta("click",e,e.target)}])}})})}bindNav(){if(!V.canPushState())return;history.scrollRestoration&&(history.scrollRestoration="manual");let e=null;window.addEventListener("scroll",t=>{clearTimeout(e),e=setTimeout(()=>{V.updateCurrentState(i=>Object.assign(i,{scroll:window.scrollY}))},100)}),window.addEventListener("popstate",t=>{if(!this.registerNewLocation(window.location))return;let{type:i,id:r,root:n,scroll:o}=t.state||{},a=window.location.href;this.requestDOMUpdate(()=>{this.main.isConnected()&&i==="patch"&&r===this.main.id?this.main.pushLinkPatch(a,null):this.replaceMain(a,null,()=>{n&&this.replaceRootHistory(),typeof o=="number"&&setTimeout(()=>{window.scrollTo(0,o)},0)})})},!1),window.addEventListener("click",t=>{let i=ee(t.target,Te),r=i&&i.getAttribute(Te),n=t.metaKey||t.ctrlKey||t.button===1;if(!r||!this.isConnected()||!this.main||n)return;let o=i.href,a=i.getAttribute(At);t.preventDefault(),this.pendingLink!==o&&this.requestDOMUpdate(()=>{if(r==="patch")this.pushHistoryPatch(o,a,i);else if(r==="redirect")this.historyRedirect(o,a);else throw new Error(`expected ${Te} to be "patch" or "redirect", got: ${r}`)})},!1)}dispatchEvent(e,t={}){l.dispatchEvent(window,`phx:${e}`,t)}dispatchEvents(e){e.forEach(([t,i])=>this.dispatchEvent(t,i))}withPageLoading(e,t){l.dispatchEvent(window,"phx:page-loading-start",e);let i=()=>l.dispatchEvent(window,"phx:page-loading-stop",e);return t?t(i):i}pushHistoryPatch(e,t,i){this.withPageLoading({to:e,kind:"patch"},r=>{this.main.pushLinkPatch(e,i,n=>{this.historyPatch(e,t,n),r()})})}historyPatch(e,t,i=this.setPendingLink(e)){!this.commitPendingLink(i)||(V.pushState(t,{type:"patch",id:this.main.id},e),this.registerNewLocation(window.location))}historyRedirect(e,t,i){let r=window.scrollY;this.withPageLoading({to:e,kind:"redirect"},n=>{this.replaceMain(e,i,()=>{V.pushState(t,{type:"redirect",id:this.main.id,scroll:r},e),this.registerNewLocation(window.location),n()})})}replaceRootHistory(){V.pushState("replace",{root:!0,type:"patch",id:this.main.id})}registerNewLocation(e){let{pathname:t,search:i}=this.currentLocation;return t+i===e.pathname+e.search?!1:(this.currentLocation=le(e),!0)}bindForms(){let e=0;this.on("submit",t=>{let i=t.target.getAttribute(this.binding("submit"));!i||(t.preventDefault(),t.target.disabled=!0,this.withinOwners(t.target,r=>{O.exec("submit",i,r,t.target,["push",{}])}))},!1);for(let t of["change","input"])this.on(t,i=>{let r=i.target,n=r.form&&r.form.getAttribute(this.binding("change"));if(!n||r.type==="number"&&r.validity&&r.validity.badInput)return;let o=e;e++;let{at:a,type:d}=l.private(r,"prev-iteration")||{};a===o-1&&t!==d||(l.putPrivate(r,"prev-iteration",{at:o,type:t}),this.debounce(r,i,()=>{this.withinOwners(r.form,h=>{l.putPrivate(r,Le,!0),l.isTextualInput(r)||this.setActiveElement(r),O.exec("change",n,h,r,["push",{_target:i.target.name}])})}))},!1)}debounce(e,t,i){let r=this.binding(Ct),n=this.binding(kt),o=this.defaults.debounce.toString(),a=this.defaults.throttle.toString();l.debounce(e,t,r,o,n,a,i)}silenceEvents(e){this.silenced=!0,e(),this.silenced=!1}on(e,t){window.addEventListener(e,i=>{this.silenced||t(i)})}},Kt=class{constructor(){this.transitions=new Set,this.pendingOps=[],this.reset()}reset(){this.transitions.forEach(e=>{cancelTimeout(e),this.transitions.delete(e)}),this.flushPendingOps()}after(e){this.size()===0?e():this.pushPendingOp(e)}addTransition(e,t,i){t();let r=setTimeout(()=>{this.transitions.delete(r),i(),this.size()===0&&this.flushPendingOps()},e);this.transitions.add(r)}pushPendingOp(e){this.pendingOps.push(e)}size(){return this.transitions.size}flushPendingOps(){this.pendingOps.forEach(e=>e()),this.pendingOps=[]}};return vi;})();$/;"	p	class:let
+receives	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        receives: [],$/;"	p	class:let
+receives	priv/static/assets/app.js	/^        receives: [],$/;"	p	class:let
+redirect_if_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  def redirect_if_<%= schema.singular %>_is_authenticated(conn, _opts) do$/;"	f
+redirects if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "redirects if <%= schema.singular %> is authenticated", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+redirects if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "redirects if <%= schema.singular %> is not authenticated", %{conn: conn} do$/;"	t
+redirects if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "redirects if <%= schema.singular %> is not logged in" do$/;"	t
+redirects if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "redirects if <%= schema.singular %> is not logged in", %{token: token} do$/;"	t
+redirects if already logged in	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/registration_controller_test.exs	/^    test "redirects if already logged in", %{conn: conn} do$/;"	t
+redirects if already logged in	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "redirects if already logged in", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+redirects to show when data is valid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "redirects to show when data is valid", %{conn: conn} do$/;"	t
+redirects to the configured path	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "redirects to the configured path", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+redirects when data is valid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "redirects when data is valid", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+register_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def register_<%= schema.singular %>(attrs) do$/;"	f
+register_and_log_in_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/conn_case.exs	/^  def register_and_log_in_<%= schema.singular %>(%{conn: conn}) do$/;"	f
+registers	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "registers <%= schema.plural %> with a hashed password" do$/;"	t
+registration_changeset	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  def registration_changeset(<%= schema.singular %>, attrs, opts \\\\ []) do$/;"	f
+removeNode	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function removeNode(node, parentNode, skipKeyedNodes) {$/;"	f
+removeNode	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function removeNode(node, parentNode, skipKeyedNodes) {$/;"	f
+removeNode	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function removeNode(node, parentNode, skipKeyedNodes) {$/;"	f
+removeNode	priv/static/assets/app.js	/^      function removeNode(node, parentNode, skipKeyedNodes) {$/;"	f
+render	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/changeset_view.ex	/^  def render("error.json", %{changeset: changeset}) do$/;"	f
+render	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/view.ex	/^  def render("<%= schema.singular %>.json", %{<%= schema.singular %>: <%= schema.singular %>}) do$/;"	f
+render	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/view.ex	/^  def render("index.json", %{<%= schema.plural %>: <%= schema.plural %>}) do$/;"	f
+render	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/view.ex	/^  def render("show.json", %{<%= schema.singular %>: <%= schema.singular %>}) do$/;"	f
+render	lib/rumbl_web/views/annotation_view.ex	/^  def render("annotation.json", %{annotation: ant}) do$/;"	f
+render	lib/rumbl_web/views/user_view.ex	/^  def render("user.json", %{user: user}) do$/;"	f
+render errors for invalid data	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/registration_controller_test.exs	/^    test "render errors for invalid data", %{conn: conn} do$/;"	t
+renders	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller_test.exs	/^    test "renders <%= schema.singular %> when data is valid", %{conn: conn, <%= schema.singular %>: %<%= inspect schema.alias %>{id: id} = <%= schema.singular %>} do$/;"	t
+renders	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller_test.exs	/^    test "renders <%= schema.singular %> when data is valid", %{conn: conn} do$/;"	t
+renders 404	test/rumbl_web/views/error_view_test.exs	/^  test "renders 404.html" do$/;"	t
+renders 500	test/rumbl_web/views/error_view_test.exs	/^  test "renders 500.html" do$/;"	t
+renders errors when data is invalid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "renders errors when data is invalid", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+renders errors when data is invalid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "renders errors when data is invalid", %{conn: conn} do$/;"	t
+renders errors when data is invalid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller_test.exs	/^    test "renders errors when data is invalid", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+renders errors when data is invalid	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller_test.exs	/^    test "renders errors when data is invalid", %{conn: conn} do$/;"	t
+renders form	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "renders form", %{conn: conn} do$/;"	t
+renders form for editing chosen	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller_test.exs	/^    test "renders form for editing chosen <%= schema.singular %>", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+renders log in page	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "renders log in page", %{conn: conn} do$/;"	t
+renders registration page	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/registration_controller_test.exs	/^    test "renders registration page", %{conn: conn} do$/;"	t
+renders reset password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "renders reset password", %{conn: conn, token: token} do$/;"	t
+renders settings page	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "renders settings page", %{conn: conn} do$/;"	t
+renders the confirmation page	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller_test.exs	/^    test "renders the confirmation page", %{conn: conn} do$/;"	t
+renders the resend confirmation page	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller_test.exs	/^    test "renders the resend confirmation page", %{conn: conn} do$/;"	t
+renders the reset password page	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "renders the reset password page", %{conn: conn} do$/;"	t
+renew_session	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  defp renew_session(conn) do$/;"	f
+reply	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  reply: "phx_reply",$/;"	p	class:CHANNEL_EVENTS
+reply	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  reply: "phx_reply",$/;"	p	class:CHANNEL_EVENTS
+reply	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    reply: "phx_reply",$/;"	p	class:CHANNEL_EVENTS
+reply	priv/static/assets/app.js	/^    reply: "phx_reply",$/;"	p	class:CHANNEL_EVENTS
+repos	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.release/release.ex	/^  defp repos do$/;"	f
+require user authentication on all actions	test/rumbl_web/controllers/videos_controller_test.exs	/^  test "require user authentication on all actions", %{conn: conn} do$/;"	t
+require_authenticated_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  def require_authenticated_<%= schema.singular %>(conn, _opts) do$/;"	f
+requires email and password to be set	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "requires email and password to be set" do$/;"	t
+requires email to change	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "requires email to change", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+reset_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def reset_<%= schema.singular %>_password(<%= schema.singular %>, attrs) do$/;"	f
+resets password once	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "resets password once", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>, token: token} do$/;"	t
+response	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    let payload = { status: event, response: data };$/;"	p	class:let
+response	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    let payload = { status: event, response: data };$/;"	p	class:let
+response	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      let payload = { status: event, response: data };$/;"	p	class:let
+response	priv/static/assets/app.js	/^      let payload = { status: event, response: data };$/;"	p	class:let
+returns	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "returns <%= schema.singular %> by token", %{<%= schema.singular %>: <%= schema.singular %>, token: token} do$/;"	t
+returns a	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "returns a <%= schema.singular %> changeset" do$/;"	t
+returns a changeset	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "returns a changeset" do$/;"	t
+returns the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "returns the <%= schema.singular %> if the email and password are valid" do$/;"	t
+returns the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "returns the <%= schema.singular %> if the email exists" do$/;"	t
+returns the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "returns the <%= schema.singular %> with the given id" do$/;"	t
+returns the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "returns the <%= schema.singular %> with valid token", %{<%= schema.singular %>: %{id: id}, token: token} do$/;"	t
+rollback	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.release/release.ex	/^  def rollback(repo, version) do$/;"	f
+router	lib/rumbl_web.ex	/^  def router do$/;"	f
+save_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/form_component.ex	/^  defp save_<%= schema.singular %>(socket, :edit, <%= schema.singular %>_params) do$/;"	f
+save_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/form_component.ex	/^  defp save_<%= schema.singular %>(socket, :new, <%= schema.singular %>_params) do$/;"	f
+saves new	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_test.exs	/^    test "saves new <%= schema.singular %>", %{conn: conn} do$/;"	t
+sends a new confirmation token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller_test.exs	/^    test "sends a new confirmation token", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+sends a new reset password token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller_test.exs	/^    test "sends a new reset password token", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+sends token through notification	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "sends token through notification", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+shout broadcasts to	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.channel/channel_test.exs	/^  test "shout broadcasts to <%= singular %>:lobby", %{socket: socket} do$/;"	t
+shout broadcasts to user_socket	test/rumbl_web/channels/user_socket_channel_test.exs	/^  test "shout broadcasts to user_socket:lobby", %{socket: socket} do$/;"	t
+show	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller.ex	/^  def show(conn, %{"id" => id}) do$/;"	f
+show	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller.ex	/^  def show(conn, %{"id" => id}) do$/;"	f
+show	lib/rumbl_web/controllers/user_controller.ex	/^  def show(conn, %{"id" => id}) do$/;"	f
+show	lib/rumbl_web/controllers/videos_controller.ex	/^  def show(conn, %{"id" => id}, current_user) do$/;"	f
+show	lib/rumbl_web/controllers/watch_controller.ex	/^  def show(conn, %{"id" => id}) do$/;"	f
+signed_in_path	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth.ex	/^  defp signed_in_path(_conn), do: "\/"$/;"	f
+socket authenticatrion with invalid token	test/rumbl_web/channels/user_socket_test.exs	/^  test "socket authenticatrion with invalid token" do$/;"	t
+socket authenticatrion with valid token	test/rumbl_web/channels/user_socket_test.exs	/^  test "socket authenticatrion with valid token" do $/;"	t
+socket_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var socket_default = socket;$/;"	v
+socket_default	priv/static/assets/app.js	/^  var socket_default = socket;$/;"	v
+specialElHandler	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^      var specialElHandler = specialElHandlers[fromEl.nodeName];$/;"	v
+specialElHandler	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^      var specialElHandler = specialElHandlers[fromEl.nodeName];$/;"	v
+specialElHandler	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        var specialElHandler = specialElHandlers[fromEl.nodeName];$/;"	v
+specialElHandler	priv/static/assets/app.js	/^        var specialElHandler = specialElHandlers[fromEl.nodeName];$/;"	v
+start	lib/rumbl_web/application.ex	/^  def start(_type, _args) do$/;"	f
+start_link	lib/rumbl_web/telemetry.ex	/^  def start_link(arg) do$/;"	f
+static	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  static list(presences, chooser) {$/;"	f
+static	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  static list(presences, chooser) {$/;"	f
+static	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    static list(presences, chooser) {$/;"	f
+static	priv/static/assets/app.js	/^    static list(presences, chooser) {$/;"	f
+status	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^    let payload = { status: event, response: data };$/;"	p	class:let
+status	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^    let payload = { status: event, response: data };$/;"	p	class:let
+status	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      let payload = { status: event, response: data };$/;"	p	class:let
+status	priv/static/assets/app.js	/^      let payload = { status: event, response: data };$/;"	p	class:let
+stopCallback	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    this.stopCallback = function() {$/;"	m	class:this
+stopCallback	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    this.stopCallback = function() {$/;"	m	class:this
+stopCallback	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      this.stopCallback = function() {$/;"	m	class:this
+stopCallback	priv/static/assets/app.js	/^      this.stopCallback = function() {$/;"	m	class:this
+stores the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "stores the <%= schema.singular %> token in the session", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+stores the path to redirect to on GET	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "stores the path to redirect to on GET", %{conn: conn} do$/;"	t
+succeeds even if the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/session_controller_test.exs	/^    test "succeeds even if the <%= schema.singular %> is not logged in", %{conn: conn} do$/;"	t
+syncBooleanAttrProp	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function syncBooleanAttrProp(fromEl, toEl, name) {$/;"	f
+syncBooleanAttrProp	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function syncBooleanAttrProp(fromEl, toEl, name) {$/;"	f
+syncBooleanAttrProp	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function syncBooleanAttrProp(fromEl, toEl, name) {$/;"	f
+syncBooleanAttrProp	priv/static/assets/app.js	/^  function syncBooleanAttrProp(fromEl, toEl, name) {$/;"	f
+template_not_found	lib/rumbl_web/views/error_view.ex	/^  def template_not_found(template, _assigns) do$/;"	f
+throttle	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^  throttle: 300$/;"	p	class:DEFAULTS
+throttle	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^  throttle: 300$/;"	p	class:DEFAULTS
+throttle	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    throttle: 300$/;"	p	class:DEFAULTS
+throttle	priv/static/assets/app.js	/^    throttle: 300$/;"	p	class:DEFAULTS
+toElement	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^function toElement(str) {$/;"	f
+toElement	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^function toElement(str) {$/;"	f
+toElement	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  function toElement(str) {$/;"	f
+toElement	priv/static/assets/app.js	/^  function toElement(str) {$/;"	f
+toNodeType	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    var toNodeType = toNode.nodeType;$/;"	v
+toNodeType	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    var toNodeType = toNode.nodeType;$/;"	v
+toNodeType	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      var toNodeType = toNode.nodeType;$/;"	v
+toNodeType	priv/static/assets/app.js	/^      var toNodeType = toNode.nodeType;$/;"	v
+to_param	lib/rumbl_web/param.ex	/^  def to_param(%{slug: slug, id: id}) do$/;"	f
+token_and_context_query	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  def token_and_context_query(token, context) do$/;"	f
+translate_error	lib/rumbl_web/views/error_helpers.ex	/^  def translate_error({msg, opts}) do$/;"	f
+translate_errors	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/changeset_view.ex	/^  def translate_errors(changeset) do$/;"	f
+type	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^      type: "form",$/;"	p	class:let
+type	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^      type: "form",$/;"	p	class:let
+type	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        type: "form",$/;"	p	class:let
+type	priv/static/assets/app.js	/^        type: "form",$/;"	p	class:let
+unique_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_fixtures_functions.ex	/^  def unique_<%= schema.singular %>_email, do: "<%= schema.singular %>#{System.unique_integer()}@example.com"$/;"	f
+update	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/confirmation_controller.ex	/^  def update(conn, %{"token" => token}) do$/;"	f
+update	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/reset_password_controller.ex	/^  def update(conn, %{"<%= schema.singular %>" => <%= schema.singular %>_params}) do$/;"	f
+update	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller.ex	/^  def update(conn, %{"action" => "update_email"} = params) do$/;"	f
+update	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller.ex	/^  def update(conn, %{"action" => "update_password"} = params) do$/;"	f
+update	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.html/controller.ex	/^  def update(conn, %{"id" => id, <%= inspect schema.singular %> => <%= schema.singular %>_params}) do$/;"	f
+update	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.json/controller.ex	/^  def update(conn, %{"id" => id, <%= inspect schema.singular %> => <%= schema.singular %>_params}) do$/;"	f
+update	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/form_component.ex	/^  def update(%{<%= schema.singular %>: <%= schema.singular %>} = assigns, socket) do$/;"	f
+update	lib/rumbl_web/controllers/videos_controller.ex	/^  def update(conn, %{"id" => id, "videos" => videos_params}, current_user) do$/;"	f
+update_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def update_<%= schema.singular %>_email(<%= schema.singular %>, token) do$/;"	f
+update_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_functions.ex	/^  def update_<%= schema.singular %>_password(<%= schema.singular %>, password, attrs) do$/;"	f
+update_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/access_no_schema.ex	/^  def update_<%= schema.singular %>(%<%= inspect schema.alias %>{} = <%= schema.singular %>, attrs) do$/;"	f
+update_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/schema_access.ex	/^  def update_<%= schema.singular %>(%<%= inspect schema.alias %>{} = <%= schema.singular %>, attrs) do$/;"	f
+update_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "update_<%= schema.singular %>\/2 with invalid data returns error changeset" do$/;"	t
+update_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.context/test_cases.exs	/^    test "update_<%= schema.singular %>\/2 with valid data updates the <%= schema.singular %>" do$/;"	t
+updates	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_test.exs	/^    test "updates <%= schema.singular %> in listing", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+updates	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.live/live_test.exs	/^    test "updates <%= schema.singular %> within modal", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+updates the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "updates the <%= schema.singular %> email once", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>, token: token, email: email} do$/;"	t
+updates the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "updates the <%= schema.singular %> email", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+updates the	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/settings_controller_test.exs	/^    test "updates the <%= schema.singular %> password and resets tokens", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+updates the email with a valid token	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "updates the email with a valid token", %{<%= schema.singular %>: <%= schema.singular %>, token: token, email: email} do$/;"	t
+updates the password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "updates the password", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+valid_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_fixtures_functions.ex	/^  def valid_<%= schema.singular %>_attributes(attrs \\\\ %{}) do$/;"	f
+valid_	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/context_fixtures_functions.ex	/^  def valid_<%= schema.singular %>_password, do: "hello world!"$/;"	f
+valid_password?	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  def valid_password?(%<%= inspect schema.module %>{hashed_password: hashed_password}, password)$/;"	f
+valid_password?	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  def valid_password?(_, _) do$/;"	f
+validate_current_password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  def validate_current_password(changeset, password) do$/;"	f
+validate_email	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  defp validate_email(changeset) do$/;"	f
+validate_password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema.ex	/^  defp validate_password(changeset, opts) do$/;"	f
+validates current password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates current password", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+validates email	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates email", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+validates email and password when given	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates email and password when given" do$/;"	t
+validates email uniqueness	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates email uniqueness" do$/;"	t
+validates email uniqueness	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates email uniqueness", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+validates maximum value for email for security	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates maximum value for email for security", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+validates maximum values for email and password for security	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates maximum values for email and password for security" do$/;"	t
+validates maximum values for password for security	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates maximum values for password for security", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+validates password	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/test_cases.exs	/^    test "validates password", %{<%= schema.singular %>: <%= schema.singular %>} do$/;"	t
+value	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^      value: formData,$/;"	p	class:let
+value	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^      value: formData,$/;"	p	class:let
+value	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^        value: formData,$/;"	p	class:let
+value	priv/static/assets/app.js	/^        value: formData,$/;"	p	class:let
+vendors	assets/vendor/topbar.js	/^    var vendors = ["ms", "moz", "webkit", "o"];$/;"	v
+verify_change_email_token_query	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  def verify_change_email_token_query(token, "change:" <> _ = context) do$/;"	f
+verify_email_token_query	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  def verify_email_token_query(token, context) do$/;"	f
+verify_session_token_query	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/schema_token.ex	/^  def verify_session_token_query(token) do$/;"	f
+video_default	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var video_default = Video;$/;"	v
+video_default	priv/static/assets/app.js	/^  var video_default = Video;$/;"	v
+view	lib/rumbl_web.ex	/^  def view do$/;"	f
+viewHookID	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^var viewHookID = 1;$/;"	v
+viewHookID	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^var viewHookID = 1;$/;"	v
+viewHookID	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^  var viewHookID = 1;$/;"	v
+viewHookID	priv/static/assets/app.js	/^  var viewHookID = 1;$/;"	v
+view_helpers	lib/rumbl_web.ex	/^  defp view_helpers do$/;"	f
+walkDiscardedChildNodes	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.cjs.js	/^    function walkDiscardedChildNodes(node, skipKeyedNodes) {$/;"	f
+walkDiscardedChildNodes	.elixir_ls/build/test/lib/phoenix_live_view/priv/static/phoenix_live_view.esm.js	/^    function walkDiscardedChildNodes(node, skipKeyedNodes) {$/;"	f
+walkDiscardedChildNodes	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^      function walkDiscardedChildNodes(node, skipKeyedNodes) {$/;"	f
+walkDiscardedChildNodes	priv/static/assets/app.js	/^      function walkDiscardedChildNodes(node, skipKeyedNodes) {$/;"	f
+websocket	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.cjs.js	/^  websocket: "websocket"$/;"	p	class:TRANSPORTS
+websocket	.elixir_ls/build/test/lib/phoenix/priv/static/phoenix.esm.js	/^  websocket: "websocket"$/;"	p	class:TRANSPORTS
+websocket	.elixir_ls/build/test/lib/rumbl_web/priv/static/assets/app.js	/^    websocket: "websocket"$/;"	p	class:TRANSPORTS
+websocket	priv/static/assets/app.js	/^    websocket: "websocket"$/;"	p	class:TRANSPORTS
+works even if	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "works even if <%= schema.singular %> is already logged out", %{conn: conn} do$/;"	t
+writes a cookie if remember_me is configured	.elixir_ls/build/test/lib/phoenix/priv/templates/phx.gen.auth/auth_test.exs	/^    test "writes a cookie if remember_me is configured", %{conn: conn, <%= schema.singular %>: <%= schema.singular %>} do$/;"	t

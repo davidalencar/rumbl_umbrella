@@ -60,8 +60,6 @@ defmodule RumblWeb.VideosChannel do
 
   defp compute_additionalinfo(annotation, socket) do
     for result <- InfoSys.compute(annotation.body, limit: 1, timeout: 10_000) do
-      IO.puts "-----------------"
-      IO.inspect(result)
       backend_user = Accounts.get_user_by(username: result.backend.name())
 
       attrs = %{body: result.text, at: annotation.at}
