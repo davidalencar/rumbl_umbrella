@@ -1,7 +1,8 @@
 defmodule InfoSys.Test.HTTPClient do
   @wolfram_xml File.read!("test/fixtures/wolfram.xml")
 
-  def request(url) do
+
+  def request_old(url) do
     url = to_string(url)
     cond do
       String.contains?(url, "1+%2B+1") ->
